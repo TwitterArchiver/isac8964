@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2074408762300063864",
+    "created_at": "2026-07-07T16:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T17:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074534170592948550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452594206838785",
+          "start": 0,
+          "username": "Idontselldrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074534170592948550",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074533341349740768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Idontselldrug 合法了但我未满21💀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2074408762300063864",
+        "created_at": "2026-07-07T16:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074534170592948550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074534170592948550",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074533341349740768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Idontselldrug 合法了但我未满21💀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2074408762300063864",
+        "created_at": "2026-07-07T16:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074533341349740768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1868121512710201344",
+              "start": 0,
+              "username": "isac8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074533341349740768",
+        "in_reply_to_user_id": "1868121512710201344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074520526513693039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@isac8964 你那还没合法化吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\ncis-heterosexual lgbt-phobic gtfo",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2005063407352119575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 170,
+          "like_count": 5928,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 2382
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 291,
+          "like_count": 2555,
+          "listed_count": 1,
+          "media_count": 514,
+          "tweet_count": 3065
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

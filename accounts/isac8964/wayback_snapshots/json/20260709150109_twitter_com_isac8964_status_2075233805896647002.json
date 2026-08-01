@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2075211808970018832",
+    "created_at": "2026-07-09T15:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T16:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075233805896647002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452594206838785",
+          "start": 0,
+          "username": "Idontselldrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075233805896647002",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075211808970018832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontselldrug 潮"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20109,
+        "height": 1280,
+        "media_key": "7_2075211795565080576",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075211795565080576/pu/img/bc1dkRQR-hVikrvV.jpg",
+        "public_metrics": {
+          "view_count": 59
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075211795565080576/pu/vid/avc1/320x568/MKX8KvRa-_lcBMbr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075211795565080576/pu/vid/avc1/480x852/mmeM3pcchd3IeR2X.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075211795565080576/pu/vid/avc1/720x1280/AmPNjHWY8jBgyl7C.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075211795565080576/pu/pl/x2hIW9IiH2wbKqRZ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2075211808970018832",
+        "created_at": "2026-07-09T15:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075233805896647002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075233805896647002",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075211808970018832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 潮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075211795565080576"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2075211808970018832",
+        "created_at": "2026-07-09T13:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075211808970018832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MIMvn3J0AG",
+              "end": 37,
+              "expanded_url": "https://x.com/Idontselldrug/status/2075211808970018832/video/1",
+              "media_key": "7_2075211795565080576",
+              "start": 14,
+              "url": "https://t.co/MIMvn3J0AG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075211808970018832",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Wheredoistart https://t.co/MIMvn3J0AG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\ncis-heterosexual lgbt-phobic gtfo",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2005063407352119575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 170,
+          "like_count": 5975,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 2394
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 292,
+          "like_count": 2567,
+          "listed_count": 1,
+          "media_count": 518,
+          "tweet_count": 3097
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081719816872673281",
+        "3_2081719816855896064",
+        "3_2081719816876863488"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081719841757503567",
+    "created_at": "2026-07-27T12:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081719841757503567"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DmmQ8qEQ5v",
+          "end": 41,
+          "expanded_url": "https://x.com/isac8964/status/2081719841757503567/photo/1",
+          "media_key": "3_2081719816872673281",
+          "start": 18,
+          "url": "https://t.co/DmmQ8qEQ5v"
+        },
+        {
+          "display_url": "pic.x.com/DmmQ8qEQ5v",
+          "end": 41,
+          "expanded_url": "https://x.com/isac8964/status/2081719841757503567/photo/1",
+          "media_key": "3_2081719816855896064",
+          "start": 18,
+          "url": "https://t.co/DmmQ8qEQ5v"
+        },
+        {
+          "display_url": "pic.x.com/DmmQ8qEQ5v",
+          "end": 41,
+          "expanded_url": "https://x.com/isac8964/status/2081719841757503567/photo/1",
+          "media_key": "3_2081719816876863488",
+          "start": 18,
+          "url": "https://t.co/DmmQ8qEQ5v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081719841757503567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我今天在网吧打了两个小时斗阵特工。 https://t.co/DmmQ8qEQ5v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081719816872673281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPBJN6WQAEUBbn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081719816855896064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPBJN2WQAATkpl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081719816876863488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPBJN7WMAAyFzL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081719816872673281",
+            "3_2081719816855896064",
+            "3_2081719816876863488"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081719841757503567",
+        "created_at": "2026-07-27T12:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081719841757503567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DmmQ8qEQ5v",
+              "end": 41,
+              "expanded_url": "https://x.com/isac8964/status/2081719841757503567/photo/1",
+              "media_key": "3_2081719816872673281",
+              "start": 18,
+              "url": "https://t.co/DmmQ8qEQ5v"
+            },
+            {
+              "display_url": "pic.x.com/DmmQ8qEQ5v",
+              "end": 41,
+              "expanded_url": "https://x.com/isac8964/status/2081719841757503567/photo/1",
+              "media_key": "3_2081719816855896064",
+              "start": 18,
+              "url": "https://t.co/DmmQ8qEQ5v"
+            },
+            {
+              "display_url": "pic.x.com/DmmQ8qEQ5v",
+              "end": 41,
+              "expanded_url": "https://x.com/isac8964/status/2081719841757503567/photo/1",
+              "media_key": "3_2081719816876863488",
+              "start": 18,
+              "url": "https://t.co/DmmQ8qEQ5v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081719841757503567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天在网吧打了两个小时斗阵特工。 https://t.co/DmmQ8qEQ5v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 183,
+          "like_count": 6443,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 2481
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      }
+    ]
+  }
+}

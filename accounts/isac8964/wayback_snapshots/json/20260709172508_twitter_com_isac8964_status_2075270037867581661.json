@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074899038088941569",
+        "3_2074899041012367361",
+        "3_2074899050587967488",
+        "3_2074899098361065472"
+      ],
+      "media_source_tweet_id": [
+        "2074899148273234268",
+        "2074899148273234268",
+        "2074899148273234268",
+        "2074899148273234268"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "conversation_id": "2075270037867581661",
+    "created_at": "2026-07-09T17:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T18:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075270037867581661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1868039618332868608",
+          "start": 3,
+          "username": "aplicssss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q6E6RPV9Sc",
+          "end": 68,
+          "expanded_url": "https://x.com/aplicssss/status/2074899148273234268/photo/1",
+          "media_key": "3_2074899038088941569",
+          "start": 45,
+          "url": "https://t.co/q6E6RPV9Sc"
+        },
+        {
+          "display_url": "pic.x.com/q6E6RPV9Sc",
+          "end": 68,
+          "expanded_url": "https://x.com/aplicssss/status/2074899148273234268/photo/1",
+          "media_key": "3_2074899041012367361",
+          "start": 45,
+          "url": "https://t.co/q6E6RPV9Sc"
+        },
+        {
+          "display_url": "pic.x.com/q6E6RPV9Sc",
+          "end": 68,
+          "expanded_url": "https://x.com/aplicssss/status/2074899148273234268/photo/1",
+          "media_key": "3_2074899050587967488",
+          "start": 45,
+          "url": "https://t.co/q6E6RPV9Sc"
+        },
+        {
+          "display_url": "pic.x.com/q6E6RPV9Sc",
+          "end": 68,
+          "expanded_url": "https://x.com/aplicssss/status/2074899148273234268/photo/1",
+          "media_key": "3_2074899098361065472",
+          "start": 45,
+          "url": "https://t.co/q6E6RPV9Sc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075270037867581661",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074899148273234268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aplicssss: RE5 gave us the baddest women https://t.co/q6E6RPV9Sc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 447,
+        "media_key": "3_2074899038088941569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMuFro4XUAET-52.jpg",
+        "width": 447
+      },
+      {
+        "height": 429,
+        "media_key": "3_2074899041012367361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMuFrzxXQAEZcin.jpg",
+        "width": 466
+      },
+      {
+        "height": 643,
+        "media_key": "3_2074899050587967488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMuFsXcXUAA6eTj.jpg",
+        "width": 749
+      },
+      {
+        "height": 344,
+        "media_key": "3_2074899098361065472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMuFvJaW8AAX-VM.png",
+        "width": 364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074899038088941569",
+            "3_2074899041012367361",
+            "3_2074899050587967488",
+            "3_2074899098361065472"
+          ],
+          "media_source_tweet_id": [
+            "2074899148273234268",
+            "2074899148273234268",
+            "2074899148273234268",
+            "2074899148273234268"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "conversation_id": "2075270037867581661",
+        "created_at": "2026-07-09T17:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T18:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075270037867581661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1868039618332868608",
+              "start": 3,
+              "username": "aplicssss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q6E6RPV9Sc",
+              "end": 68,
+              "expanded_url": "https://x.com/aplicssss/status/2074899148273234268/photo/1",
+              "media_key": "3_2074899038088941569",
+              "start": 45,
+              "url": "https://t.co/q6E6RPV9Sc"
+            },
+            {
+              "display_url": "pic.x.com/q6E6RPV9Sc",
+              "end": 68,
+              "expanded_url": "https://x.com/aplicssss/status/2074899148273234268/photo/1",
+              "media_key": "3_2074899041012367361",
+              "start": 45,
+              "url": "https://t.co/q6E6RPV9Sc"
+            },
+            {
+              "display_url": "pic.x.com/q6E6RPV9Sc",
+              "end": 68,
+              "expanded_url": "https://x.com/aplicssss/status/2074899148273234268/photo/1",
+              "media_key": "3_2074899050587967488",
+              "start": 45,
+              "url": "https://t.co/q6E6RPV9Sc"
+            },
+            {
+              "display_url": "pic.x.com/q6E6RPV9Sc",
+              "end": 68,
+              "expanded_url": "https://x.com/aplicssss/status/2074899148273234268/photo/1",
+              "media_key": "3_2074899098361065472",
+              "start": 45,
+              "url": "https://t.co/q6E6RPV9Sc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075270037867581661",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074899148273234268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aplicssss: RE5 gave us the baddest women https://t.co/q6E6RPV9Sc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074899038088941569",
+            "3_2074899041012367361",
+            "3_2074899050587967488",
+            "3_2074899098361065472"
+          ]
+        },
+        "author_id": "1868039618332868608",
+        "conversation_id": "2074899148273234268",
+        "created_at": "2026-07-08T16:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074899148273234268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q6E6RPV9Sc",
+              "end": 53,
+              "expanded_url": "https://x.com/aplicssss/status/2074899148273234268/photo/1",
+              "media_key": "3_2074899038088941569",
+              "start": 30,
+              "url": "https://t.co/q6E6RPV9Sc"
+            },
+            {
+              "display_url": "pic.x.com/q6E6RPV9Sc",
+              "end": 53,
+              "expanded_url": "https://x.com/aplicssss/status/2074899148273234268/photo/1",
+              "media_key": "3_2074899041012367361",
+              "start": 30,
+              "url": "https://t.co/q6E6RPV9Sc"
+            },
+            {
+              "display_url": "pic.x.com/q6E6RPV9Sc",
+              "end": 53,
+              "expanded_url": "https://x.com/aplicssss/status/2074899148273234268/photo/1",
+              "media_key": "3_2074899050587967488",
+              "start": 30,
+              "url": "https://t.co/q6E6RPV9Sc"
+            },
+            {
+              "display_url": "pic.x.com/q6E6RPV9Sc",
+              "end": 53,
+              "expanded_url": "https://x.com/aplicssss/status/2074899148273234268/photo/1",
+              "media_key": "3_2074899098361065472",
+              "start": 30,
+              "url": "https://t.co/q6E6RPV9Sc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074899148273234268",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 13988,
+          "like_count": 1101,
+          "quote_count": 10,
+          "reply_count": 15,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "RE5 gave us the baddest women https://t.co/q6E6RPV9Sc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\ncis-heterosexual lgbt-phobic gtfo",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2005063407352119575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 171,
+          "like_count": 5986,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 2399
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-14T21:05:32.000Z",
+        "description": "i am the pioneer on this path leading to the Resident Evil 0 REMAKE\nonly true ship is #aeon\nand i love #clairebecca",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 86,
+                "tag": "aeon"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "tag": "clairebecca"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "UmbrellaExecutiveTraining.com",
+                "end": 23,
+                "expanded_url": "http://UmbrellaExecutiveTraining.com",
+                "start": 0,
+                "url": "https://t.co/5KAtie5rSx"
+              }
+            ]
+          }
+        },
+        "id": "1868039618332868608",
+        "location": "he/him",
+        "name": "aplics 🇪🇬 CV remake announced: 34 days ago",
+        "pinned_tweet_id": "2063228922737590753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070153756017045504/EEYLWXwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 565,
+          "like_count": 9200,
+          "listed_count": 1,
+          "media_count": 593,
+          "tweet_count": 3922
+        },
+        "url": "https://t.co/5KAtie5rSx",
+        "username": "aplicssss",
+        "verified": false
+      }
+    ]
+  }
+}

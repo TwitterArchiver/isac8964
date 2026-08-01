@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2051280153511072038",
+    "created_at": "2026-05-04T12:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T13:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051280153511072038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1785739165193166848",
+          "start": 3,
+          "username": "CYS4T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051280153511072038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051136165064171937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CYS4T: 下个周末，来自藏人表演艺术学院(TIPA)的几位艺术家将在纽约演出，推荐大家去一睹他们的风采！TIPA 是尊者为了应对藏人文化危机而在的1959年初创立的机构。藏人的传统表演艺术（包括音乐、舞蹈和戏剧）在中共的统治下面临存亡威胁，一切都变成了对共产党的赞美…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 632,
+        "media_key": "3_2051136122953269248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHcZb7qaAAARn6B.png",
+        "width": 461
+      },
+      {
+        "height": 500,
+        "media_key": "3_2051136140380692480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHcZc8lbYAASJwA.png",
+        "width": 800
+      },
+      {
+        "height": 667,
+        "media_key": "3_2051136157208223744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHcZd7RbIAA5xKE.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2051280153511072038",
+        "created_at": "2026-05-04T12:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051280153511072038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1785739165193166848",
+              "start": 3,
+              "username": "CYS4T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051280153511072038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051136165064171937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CYS4T: 下个周末，来自藏人表演艺术学院(TIPA)的几位艺术家将在纽约演出，推荐大家去一睹他们的风采！TIPA 是尊者为了应对藏人文化危机而在的1959年初创立的机构。藏人的传统表演艺术（包括音乐、舞蹈和戏剧）在中共的统治下面临存亡威胁，一切都变成了对共产党的赞美…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051136122953269248",
+            "3_2051136140380692480",
+            "3_2051136157208223744"
+          ]
+        },
+        "author_id": "1785739165193166848",
+        "conversation_id": "2051136165064171937",
+        "created_at": "2026-05-04T03:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051136165064171937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/69HmUDgYrR",
+              "end": 155,
+              "expanded_url": "https://x.com/CYS4T/status/2051136165064171937/photo/1",
+              "media_key": "3_2051136122953269248",
+              "start": 132,
+              "url": "https://t.co/69HmUDgYrR"
+            },
+            {
+              "display_url": "pic.x.com/69HmUDgYrR",
+              "end": 155,
+              "expanded_url": "https://x.com/CYS4T/status/2051136165064171937/photo/1",
+              "media_key": "3_2051136140380692480",
+              "start": 132,
+              "url": "https://t.co/69HmUDgYrR"
+            },
+            {
+              "display_url": "pic.x.com/69HmUDgYrR",
+              "end": 155,
+              "expanded_url": "https://x.com/CYS4T/status/2051136165064171937/photo/1",
+              "media_key": "3_2051136157208223744",
+              "start": 132,
+              "url": "https://t.co/69HmUDgYrR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051136165064171937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1002,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "下个周末，来自藏人表演艺术学院(TIPA)的几位艺术家将在纽约演出，推荐大家去一睹他们的风采！TIPA 是尊者为了应对藏人文化危机而在的1959年初创立的机构。藏人的传统表演艺术（包括音乐、舞蹈和戏剧）在中共的统治下面临存亡威胁，一切都变成了对共产党的赞美。。。 https://t.co/69HmUDgYrR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CN/EN/ES \nBOS(sometimes)/CT",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2005063407352119575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 156,
+          "like_count": 5373,
+          "listed_count": 1,
+          "media_count": 331,
+          "tweet_count": 2226
+        },
+        "username": "isac8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T18:36:54.000Z",
+        "description": "ChineseYouthStandForTibet རྒྱ་སྐད་གཞོན་ནུའི་བོད་དོན་རྒྱབ་སྐྱོར་མཐུན་ཚོགས། 我们是一群热爱藏文化的中文母语者，心系大藏区的一草一木。我将在这分享藏地的古与今。愿自由之风吹遍图博大地！扎西德勒🙏！愿你吉祥如牛粪 自由如牦牛 三宝护佑🦬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chineseyouthstandfortibet.substack.com",
+                "end": 23,
+                "expanded_url": "https://chineseyouthstandfortibet.substack.com/",
+                "start": 0,
+                "url": "https://t.co/rQTpGdSaTb"
+              }
+            ]
+          }
+        },
+        "id": "1785739165193166848",
+        "location": "A Tibet Free From Fear",
+        "name": "华语青年挺藏会 ChineseYouthStand4Tibet",
+        "pinned_tweet_id": "2046243139342770622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785740245524254720/qEDRgfj5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4595,
+          "following_count": 408,
+          "like_count": 5942,
+          "listed_count": 30,
+          "media_count": 449,
+          "tweet_count": 1641
+        },
+        "url": "https://t.co/rQTpGdSaTb",
+        "username": "CYS4T",
+        "verified": true
+      }
+    ]
+  }
+}

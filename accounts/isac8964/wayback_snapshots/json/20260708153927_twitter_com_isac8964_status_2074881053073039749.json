@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074570931167440896"
+      ],
+      "media_source_tweet_id": [
+        "2074571020120232379"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "conversation_id": "2074881053073039749",
+    "created_at": "2026-07-08T15:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074881053073039749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2058478703202521088",
+          "start": 3,
+          "username": "marieplie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fuPGRVbUaj",
+          "end": 80,
+          "expanded_url": "https://x.com/marieplie/status/2074571020120232379/video/1",
+          "media_key": "13_2074570931167440896",
+          "start": 57,
+          "url": "https://t.co/fuPGRVbUaj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074881053073039749",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4798
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074571020120232379",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @marieplie: This is how I feel trying to be seductive https://t.co/fuPGRVbUaj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11160,
+        "height": 1920,
+        "media_key": "13_2074570931167440896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074570931167440896/img/lo0ScNFcxfm448cZ.jpg",
+        "public_metrics": {
+          "view_count": 1471018
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074570931167440896/vid/avc1/720x1562/Q6VGJCcTUv1Jbt9n.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074570931167440896/vid/avc1/480x1042/W8Jdc9KtEIOoIBLp.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074570931167440896/vid/avc1/884x1920/a1Ndn1LmEUMUeKQ8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074570931167440896/pl/1ixsgI934GTQ6Bku.m3u8?v=2e4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074570931167440896/vid/avc1/320x694/IHQDvSQLtxrW6yCX.mp4"
+          }
+        ],
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074570931167440896"
+          ],
+          "media_source_tweet_id": [
+            "2074571020120232379"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "conversation_id": "2074881053073039749",
+        "created_at": "2026-07-08T15:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074881053073039749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2058478703202521088",
+              "start": 3,
+              "username": "marieplie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fuPGRVbUaj",
+              "end": 80,
+              "expanded_url": "https://x.com/marieplie/status/2074571020120232379/video/1",
+              "media_key": "13_2074570931167440896",
+              "start": 57,
+              "url": "https://t.co/fuPGRVbUaj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074881053073039749",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4798
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074571020120232379",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @marieplie: This is how I feel trying to be seductive https://t.co/fuPGRVbUaj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074570931167440896"
+          ]
+        },
+        "author_id": "2058478703202521088",
+        "conversation_id": "2074571020120232379",
+        "created_at": "2026-07-07T19:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T20:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074571020120232379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fuPGRVbUaj",
+              "end": 65,
+              "expanded_url": "https://x.com/marieplie/status/2074571020120232379/video/1",
+              "media_key": "13_2074570931167440896",
+              "start": 42,
+              "url": "https://t.co/fuPGRVbUaj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074571020120232379",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7163,
+          "impression_count": 2765921,
+          "like_count": 81890,
+          "quote_count": 683,
+          "reply_count": 558,
+          "retweet_count": 4798
+        },
+        "reply_settings": "everyone",
+        "text": "This is how I feel trying to be seductive https://t.co/fuPGRVbUaj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\ncis-heterosexual lgbt-phobic gtfo",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2005063407352119575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 169,
+          "like_count": 5942,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 2384
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-24T09:24:28.000Z",
+        "description": "Descendant of Nazi sleeper agents sent to South America \n\nDancer\n\nÜbermensch",
+        "id": "2058478703202521088",
+        "name": "ré",
+        "pinned_tweet_id": "2073187696084701681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073170583563497472/M6zr6_07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 71,
+          "like_count": 799,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 480
+        },
+        "url": "",
+        "username": "marieplie",
+        "verified": false
+      }
+    ]
+  }
+}

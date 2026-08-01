@@ -1,0 +1,596 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2069443669690929154"
+      ],
+      "media_source_tweet_id": [
+        "2069443743577407515"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045383005",
+          "name": "Resident Evil"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045383005",
+          "name": "Resident Evil"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045383005",
+          "name": "Resident Evil"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2070400797137850437",
+    "created_at": "2026-06-26T06:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070400797137850437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2992354009",
+          "start": 3,
+          "username": "carlojisan1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8HrnfNtgbR",
+          "end": 62,
+          "expanded_url": "https://x.com/PointsMaster22/status/2069443743577407515/video/1",
+          "media_key": "13_2069443669690929154",
+          "start": 39,
+          "url": "https://t.co/8HrnfNtgbR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070400797137850437",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1186
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070135833152344318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @carlojisan1: バイオハザードが起こらなかった世界線泣く😭 https://t.co/8HrnfNtgbR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36100,
+        "height": 1280,
+        "media_key": "13_2069443669690929154",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069443669690929154/img/YXqayN2eLZMx_xs3.jpg",
+        "public_metrics": {
+          "view_count": 330679
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069443669690929154/vid/avc1/320x568/zzKRloioF0ToMONP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069443669690929154/vid/avc1/480x852/jrE9gKj0kpNgITMc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069443669690929154/vid/avc1/720x1280/DOD-r6JWQOAG9JfO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069443669690929154/pl/nQIwwMj-CFCiA6vY.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069443669690929154"
+          ],
+          "media_source_tweet_id": [
+            "2069443743577407515"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2070400797137850437",
+        "created_at": "2026-06-26T06:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070400797137850437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2992354009",
+              "start": 3,
+              "username": "carlojisan1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8HrnfNtgbR",
+              "end": 62,
+              "expanded_url": "https://x.com/PointsMaster22/status/2069443743577407515/video/1",
+              "media_key": "13_2069443669690929154",
+              "start": 39,
+              "url": "https://t.co/8HrnfNtgbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070400797137850437",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1186
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070135833152344318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @carlojisan1: バイオハザードが起こらなかった世界線泣く😭 https://t.co/8HrnfNtgbR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069443669690929154"
+          ],
+          "media_source_tweet_id": [
+            "2069443743577407515"
+          ]
+        },
+        "author_id": "2992354009",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2070135833152344318",
+        "created_at": "2026-06-25T13:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070135833152344318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8HrnfNtgbR",
+              "end": 45,
+              "expanded_url": "https://x.com/PointsMaster22/status/2069443743577407515/video/1",
+              "media_key": "13_2069443669690929154",
+              "start": 22,
+              "url": "https://t.co/8HrnfNtgbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070135833152344318",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1883,
+          "impression_count": 582226,
+          "like_count": 7835,
+          "quote_count": 128,
+          "reply_count": 54,
+          "retweet_count": 1186
+        },
+        "reply_settings": "everyone",
+        "text": "バイオハザードが起こらなかった世界線泣く😭 https://t.co/8HrnfNtgbR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\napprove request randomly",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2005063407352119575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 146,
+          "like_count": 5734,
+          "listed_count": 1,
+          "media_count": 345,
+          "tweet_count": 2331
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-22T11:52:26.000Z",
+        "description": "ミリタリー好き。サバゲ、コスプレ、カメラ 、釣り、カラオケ、キャンプとめちゃ多趣味。コス垢→@CARL_cosplay 無言フォロー失礼します🙏。YouTube で動画投稿もたまにしてます。総合タグ #CARLMemory",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 100,
+                "tag": "CARLMemory"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "CARL_cosplay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCLJOI…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCLJOIQY7e0KRaTtBLmcIeLg?view_as=subscriber",
+                "start": 0,
+                "url": "https://t.co/KYizCAOfBa"
+              }
+            ]
+          }
+        },
+        "id": "2992354009",
+        "location": "関東",
+        "name": "CARL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055550942863572992/XkoAMIQI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 1226,
+          "like_count": 124923,
+          "listed_count": 6,
+          "media_count": 3323,
+          "tweet_count": 34256
+        },
+        "url": "https://t.co/KYizCAOfBa",
+        "username": "carlojisan1",
+        "verified": true
+      }
+    ]
+  }
+}

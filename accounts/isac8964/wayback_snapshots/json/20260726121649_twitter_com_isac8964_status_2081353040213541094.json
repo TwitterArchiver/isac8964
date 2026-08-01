@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2081353040213541094",
+    "created_at": "2026-07-26T12:16:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:16:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081353040213541094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2055987687723839488",
+          "start": 3,
+          "username": "okokok333444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081353040213541094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081106290877804877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @okokok333444: 卧槽我恨你你他妈滚吧你根本不是社交孤儿一堆人跟你互动我绝望了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2081353040213541094",
+        "created_at": "2026-07-26T12:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081353040213541094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055987687723839488",
+              "start": 3,
+              "username": "okokok333444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081353040213541094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081106290877804877",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @okokok333444: 卧槽我恨你你他妈滚吧你根本不是社交孤儿一堆人跟你互动我绝望了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055987687723839488",
+        "conversation_id": "2081106290877804877",
+        "created_at": "2026-07-25T19:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T20:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081106290877804877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081106290877804877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4668,
+          "like_count": 142,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我恨你你他妈滚吧你根本不是社交孤儿一堆人跟你互动我绝望了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 175,
+          "like_count": 6399,
+          "listed_count": 1,
+          "media_count": 356,
+          "tweet_count": 2473
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T12:27:00.000Z",
+        "description": "糖逼一个\n@boqiaoahm4\n杯子@zhoushashaff9n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "boqiaoahm4"
+              },
+              {
+                "end": 34,
+                "start": 19,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          }
+        },
+        "id": "2055987687723839488",
+        "name": "火乍玉",
+        "pinned_tweet_id": "2055989929193435641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055989447267864576/Zi8zfiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 118,
+          "like_count": 765,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 331
+        },
+        "url": "",
+        "username": "okokok333444",
+        "verified": false
+      }
+    ]
+  }
+}

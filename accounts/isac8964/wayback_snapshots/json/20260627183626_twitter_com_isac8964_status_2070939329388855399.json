@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2070939329388855399",
+    "created_at": "2026-06-27T18:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T19:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070939329388855399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1803288616539668480",
+          "start": 3,
+          "username": "ARVNVT870"
+        },
+        {
+          "end": 29,
+          "id": "2483009606",
+          "start": 15,
+          "username": "konoKatushada"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070939329388855399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955314556139606474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ARVNVT870: @konoKatushada 然后把北京中信大厦撞了😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2070939329388855399",
+        "created_at": "2026-06-27T18:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070939329388855399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1803288616539668480",
+              "start": 3,
+              "username": "ARVNVT870"
+            },
+            {
+              "end": 29,
+              "id": "2483009606",
+              "start": 15,
+              "username": "konoKatushada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070939329388855399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955314556139606474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ARVNVT870: @konoKatushada 然后把北京中信大厦撞了😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803288616539668480",
+        "conversation_id": "1955301269465117058",
+        "created_at": "2025-08-12T17:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T18:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955314556139606474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2483009606",
+              "start": 0,
+              "username": "konoKatushada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955314556139606474",
+        "in_reply_to_user_id": "2483009606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 32171,
+          "like_count": 152,
+          "quote_count": 30,
+          "reply_count": 30,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955313752514994677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konoKatushada 然后把北京中信大厦撞了😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\napprove request randomly",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2005063407352119575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 147,
+          "like_count": 5740,
+          "listed_count": 1,
+          "media_count": 346,
+          "tweet_count": 2336
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T04:48:14.000Z",
+        "description": "军批与狗不得入内\n哪天无了就启用此帐号:@vmmacv971",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "vmmacv971"
+              }
+            ]
+          }
+        },
+        "id": "1803288616539668480",
+        "location": "Panama",
+        "name": "VictorTran870",
+        "pinned_tweet_id": "1949834461836607537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069704498075803648/8SaIS-pQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 1140,
+          "like_count": 12772,
+          "listed_count": 5,
+          "media_count": 616,
+          "tweet_count": 5320
+        },
+        "url": "",
+        "username": "ARVNVT870",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-08T01:35:27.000Z",
+        "description": "Yabba Dabba Doo Ringdigidingdingding🎵 | 斬り介とジョニー四百九十九人斬り",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/9455499",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/9455499",
+                "start": 0,
+                "url": "https://t.co/yjvO5WQOfT"
+              }
+            ]
+          }
+        },
+        "id": "2483009606",
+        "location": "Indiana",
+        "name": "KatushaMK2🛶",
+        "pinned_tweet_id": "2067768096513724613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038804072589881345/zQklpocQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2227,
+          "following_count": 4261,
+          "like_count": 634915,
+          "listed_count": 17,
+          "media_count": 17218,
+          "tweet_count": 188531
+        },
+        "url": "https://t.co/yjvO5WQOfT",
+        "username": "konoKatushada",
+        "verified": false
+      }
+    ]
+  }
+}

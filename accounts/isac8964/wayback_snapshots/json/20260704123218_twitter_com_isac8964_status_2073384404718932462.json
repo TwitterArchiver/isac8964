@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2073267086613516289"
+      ],
+      "media_source_tweet_id": [
+        "2073268195734192565"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "conversation_id": "2073384404718932462",
+    "created_at": "2026-07-04T12:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073384404718932462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1303335410609790976",
+          "start": 3,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xaw4n1OPYO",
+          "end": 94,
+          "expanded_url": "https://x.com/Rococo90933671/status/2073268195734192565/video/1",
+          "media_key": "7_2073267086613516289",
+          "start": 71,
+          "url": "https://t.co/xaw4n1OPYO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073384404718932462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073268195734192565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rococo90933671: 导致李文亚被封号的那一期视频，因为提到了那个提都不能提的名字：\n\n第一次 1:00\n第二次 1:54 https://t.co/xaw4n1OPYO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 578246,
+        "height": 1280,
+        "media_key": "7_2073267086613516289",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2073267086613516289/pu/img/wyeSABmmx7PwE7Yc.jpg",
+        "public_metrics": {
+          "view_count": 4937
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073267086613516289/pu/vid/avc1/320x568/I2Q53WsD8S47pTSt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073267086613516289/pu/vid/avc1/480x852/WCs6lJejL3uClvfz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073267086613516289/pu/vid/avc1/720x1280/R7DXJ69qJ-yJgmzG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2073267086613516289/pu/pl/RgyFo05jrBVKqGL5.m3u8?v=ad4"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2073267086613516289"
+          ],
+          "media_source_tweet_id": [
+            "2073268195734192565"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "conversation_id": "2073384404718932462",
+        "created_at": "2026-07-04T12:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073384404718932462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1303335410609790976",
+              "start": 3,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xaw4n1OPYO",
+              "end": 94,
+              "expanded_url": "https://x.com/Rococo90933671/status/2073268195734192565/video/1",
+              "media_key": "7_2073267086613516289",
+              "start": 71,
+              "url": "https://t.co/xaw4n1OPYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073384404718932462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073268195734192565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rococo90933671: 导致李文亚被封号的那一期视频，因为提到了那个提都不能提的名字：\n\n第一次 1:00\n第二次 1:54 https://t.co/xaw4n1OPYO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2073267086613516289"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2073268195734192565",
+        "created_at": "2026-07-04T04:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073268195734192565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xaw4n1OPYO",
+              "end": 74,
+              "expanded_url": "https://x.com/Rococo90933671/status/2073268195734192565/video/1",
+              "media_key": "7_2073267086613516289",
+              "start": 51,
+              "url": "https://t.co/xaw4n1OPYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073268195734192565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 9141,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "导致李文亚被封号的那一期视频，因为提到了那个提都不能提的名字：\n\n第一次 1:00\n第二次 1:54 https://t.co/xaw4n1OPYO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\ncis-heterosexual lgbt-phobic gtfo",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2005063407352119575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 166,
+          "like_count": 5833,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 2367
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13076,
+          "following_count": 3168,
+          "like_count": 42647,
+          "listed_count": 41,
+          "media_count": 4571,
+          "tweet_count": 23510
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

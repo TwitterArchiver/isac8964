@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2079229253347086775",
+    "created_at": "2026-07-21T13:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079559720046596181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "850718260362321924",
+          "start": 0,
+          "username": "ainikamal1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079559720046596181",
+    "in_reply_to_user_id": "850718260362321924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079427620564025767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@ainikamal1 感觉纹身又痛时间又长成本又高，，没有尝试过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2079229253347086775",
+        "created_at": "2026-07-21T13:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079559720046596181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "850718260362321924",
+              "start": 0,
+              "username": "ainikamal1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079559720046596181",
+        "in_reply_to_user_id": "850718260362321924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079427620564025767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ainikamal1 感觉纹身又痛时间又长成本又高，，没有尝试过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "850718260362321924",
+        "conversation_id": "2079229253347086775",
+        "created_at": "2026-07-21T04:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079427620564025767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1868121512710201344",
+              "start": 0,
+              "username": "isac8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079427620564025767",
+        "in_reply_to_user_id": "1868121512710201344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079229253347086775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@isac8964 纹身纹一半喊太痛了，就不纹了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 179,
+          "like_count": 6249,
+          "listed_count": 1,
+          "media_count": 352,
+          "tweet_count": 2444
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-08T14:33:33.000Z",
+        "description": "她们可以慕强 看脸 爱权 拜金也可以看不起同龄人年少时的单纯\n\n避难所 @Ne1lHeyw00d",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "Ne1lHeyw00d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/l1junha0",
+                "end": 23,
+                "expanded_url": "http://t.me/l1junha0",
+                "start": 0,
+                "url": "https://t.co/AKlKxiJUjl"
+              }
+            ]
+          }
+        },
+        "id": "850718260362321924",
+        "location": "四海为家",
+        "name": "纯真双眼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075826664219815936/4cdNmJ_y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 21,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 93
+        },
+        "url": "https://t.co/AKlKxiJUjl",
+        "username": "ainikamal1",
+        "verified": false
+      }
+    ]
+  }
+}

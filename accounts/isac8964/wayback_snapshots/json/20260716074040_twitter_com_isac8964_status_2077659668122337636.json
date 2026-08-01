@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2077659668122337636",
+    "created_at": "2026-07-16T07:40:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T08:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077659668122337636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "439632729",
+          "start": 3,
+          "username": "_Drahtzieher"
+        },
+        {
+          "end": 29,
+          "id": "1198837480759287808",
+          "start": 18,
+          "username": "Inkingfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077659668122337636",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077635161047658690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Drahtzieher: @Inkingfish I think that's more like being a retard than being ADHD."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2077659668122337636",
+        "created_at": "2026-07-16T07:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077659668122337636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "439632729",
+              "start": 3,
+              "username": "_Drahtzieher"
+            },
+            {
+              "end": 29,
+              "id": "1198837480759287808",
+              "start": 18,
+              "username": "Inkingfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077659668122337636",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077635161047658690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Drahtzieher: @Inkingfish I think that's more like being a retard than being ADHD."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "439632729",
+        "conversation_id": "2077573181163073628",
+        "created_at": "2026-07-16T06:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T07:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077635161047658690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1198837480759287808",
+              "start": 0,
+              "username": "Inkingfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077635161047658690",
+        "in_reply_to_user_id": "1198837480759287808",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077573181163073628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inkingfish I think that's more like being a retard than being ADHD."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2071930940834635816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 175,
+          "like_count": 6145,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 2418
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2011-12-18T01:11:39.000Z",
+        "description": "🤖 https://t.co/AHK9hWyHHS\n- app :: DriveDock\n- plugin :: IINA-DanmakuCosmos-Patch\n📖 #BookLover\n🇩🇪 #IchLiebeDeutscheSprache",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 84,
+                "tag": "BookLover"
+              },
+              {
+                "end": 122,
+                "start": 98,
+                "tag": "IchLiebeDeutscheSprache"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "codingezio.github.io",
+                "end": 25,
+                "expanded_url": "https://codingezio.github.io",
+                "start": 2,
+                "url": "https://t.co/AHK9hWyHHS"
+              }
+            ]
+          }
+        },
+        "id": "439632729",
+        "location": "Proxima Centauri",
+        "name": "Ms. Robot",
+        "pinned_tweet_id": "831599178635677696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1467670971108659204/BI0wb8tI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 173,
+          "like_count": 1320,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 904
+        },
+        "url": "",
+        "username": "_Drahtzieher",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-25T05:35:10.000Z",
+        "description": "我虽独身，在此也住多年，常言道，寡妇门前是非多，好事不出门，坏事传千里，所以只能身居茅屋，眼观全球，脚踩污泥，胸怀天下，我说的对吗？",
+        "id": "1198837480759287808",
+        "location": "蚌埠，安徽",
+        "name": "习近平🌸寻固炮🌸点击主页👈",
+        "pinned_tweet_id": "1536905463412842496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902399849867440133/zJxjYFBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6943,
+          "following_count": 460,
+          "like_count": 12670,
+          "listed_count": 25,
+          "media_count": 371,
+          "tweet_count": 13519
+        },
+        "url": "",
+        "username": "Inkingfish",
+        "verified": false
+      }
+    ]
+  }
+}

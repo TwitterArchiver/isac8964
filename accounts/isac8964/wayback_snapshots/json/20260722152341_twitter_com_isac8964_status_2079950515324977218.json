@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079626290982752256"
+      ],
+      "media_source_tweet_id": [
+        "2079626301107773802"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "conversation_id": "2079950515324977218",
+    "created_at": "2026-07-22T15:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T16:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079950515324977218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1677533186597990400",
+          "start": 3,
+          "username": "majidawan764334"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Osm5yqKAW9",
+          "end": 44,
+          "expanded_url": "https://x.com/majidawan764334/status/2079626301107773802/photo/1",
+          "media_key": "3_2079626290982752256",
+          "start": 21,
+          "url": "https://t.co/Osm5yqKAW9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079950515324977218",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1095
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079626301107773802",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @majidawan764334: https://t.co/Osm5yqKAW9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 263,
+        "media_key": "3_2079626290982752256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxRF-OXEAARtEC.jpg",
+        "width": 392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079626290982752256"
+          ]
+        },
+        "author_id": "1677533186597990400",
+        "conversation_id": "2079626301107773802",
+        "created_at": "2026-07-21T17:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079626301107773802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Osm5yqKAW9",
+              "end": 23,
+              "expanded_url": "https://x.com/majidawan764334/status/2079626301107773802/photo/1",
+              "media_key": "3_2079626290982752256",
+              "start": 0,
+              "url": "https://t.co/Osm5yqKAW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079626301107773802",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 700,
+          "impression_count": 91215,
+          "like_count": 7813,
+          "quote_count": 41,
+          "reply_count": 11,
+          "retweet_count": 1095
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Osm5yqKAW9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079626290982752256"
+          ],
+          "media_source_tweet_id": [
+            "2079626301107773802"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "conversation_id": "2079950515324977218",
+        "created_at": "2026-07-22T15:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079950515324977218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1677533186597990400",
+              "start": 3,
+              "username": "majidawan764334"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Osm5yqKAW9",
+              "end": 44,
+              "expanded_url": "https://x.com/majidawan764334/status/2079626301107773802/photo/1",
+              "media_key": "3_2079626290982752256",
+              "start": 21,
+              "url": "https://t.co/Osm5yqKAW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079950515324977218",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1095
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079626301107773802",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @majidawan764334: https://t.co/Osm5yqKAW9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 180,
+          "like_count": 6276,
+          "listed_count": 1,
+          "media_count": 353,
+          "tweet_count": 2451
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-08T04:21:20.000Z",
+        "description": "wlg fan club 🐈 dm for submissions +\ncredit! (can't always respond but 😘 them all) forced blue check 👎 (gfy EM) IG: @",
+        "id": "1677533186597990400",
+        "location": "United States",
+        "name": "Cutes Animals",
+        "pinned_tweet_id": "2069784516260937785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962138061380210688/nMzPVxw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8281,
+          "following_count": 6242,
+          "like_count": 15166,
+          "listed_count": 22,
+          "media_count": 3567,
+          "tweet_count": 8386
+        },
+        "url": "",
+        "username": "majidawan764334",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2070541651785945460",
+    "created_at": "2026-06-28T07:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T08:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071131296810619018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1982429504225349632",
+          "start": 0,
+          "username": "AMadelaina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071131296810619018",
+    "in_reply_to_user_id": "1982429504225349632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070541651785945460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AMadelaina 报告我没穿内裤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1442,
+        "media_key": "3_2070541643460345856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwKp48bgAASbo_.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2070541651785945460",
+        "created_at": "2026-06-28T07:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071131296810619018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1982429504225349632",
+              "start": 0,
+              "username": "AMadelaina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071131296810619018",
+        "in_reply_to_user_id": "1982429504225349632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070541651785945460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AMadelaina 报告我没穿内裤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070541643460345856"
+          ]
+        },
+        "author_id": "1982429504225349632",
+        "conversation_id": "2070541651785945460",
+        "created_at": "2026-06-26T16:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070541651785945460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IY4rvlHLQr",
+              "end": 79,
+              "expanded_url": "https://x.com/AMadelaina/status/2070541651785945460/photo/1",
+              "media_key": "3_2070541643460345856",
+              "start": 56,
+              "url": "https://t.co/IY4rvlHLQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070541651785945460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 331,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们两个关系明显变淡了我觉得你最近似乎不想理我 我给你发信息你也不回 导致我的心情很差 所以你的内裤是什么颜色 https://t.co/IY4rvlHLQr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\napprove request randomly",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2005063407352119575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 148,
+          "like_count": 5745,
+          "listed_count": 1,
+          "media_count": 346,
+          "tweet_count": 2337
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T12:50:21.000Z",
+        "description": "我是椒椒，前世@Ina_puppywwww被盗，助力我找回互关……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "Ina_puppywwww"
+              }
+            ]
+          }
+        },
+        "id": "1982429504225349632",
+        "name": "藏身在无花的雾里",
+        "pinned_tweet_id": "2020467357831897184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004282193246625792/zuCMvmhf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1905,
+          "following_count": 211,
+          "like_count": 1481,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 533
+        },
+        "url": "",
+        "username": "AMadelaina",
+        "verified": false
+      }
+    ]
+  }
+}

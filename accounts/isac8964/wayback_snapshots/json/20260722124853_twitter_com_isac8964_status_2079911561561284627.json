@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079814855805280256"
+      ],
+      "media_source_tweet_id": [
+        "2079814861929021801"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "conversation_id": "2079911561561284627",
+    "created_at": "2026-07-22T12:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T13:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079911561561284627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1963657833939111936",
+          "start": 3,
+          "username": "mogitatekantyou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RF0g2htRRB",
+          "end": 58,
+          "expanded_url": "https://x.com/mogitatekantyou/status/2079814861929021801/photo/1",
+          "media_key": "3_2079814855805280256",
+          "start": 35,
+          "url": "https://t.co/RF0g2htRRB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079911561561284627",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 263
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079814861929021801",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mogitatekantyou: 0093のノア家、家族写真 https://t.co/RF0g2htRRB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079814855805280256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNz8l47aoAACdLl.jpg",
+        "width": 1450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079814855805280256"
+          ]
+        },
+        "author_id": "1963657833939111936",
+        "conversation_id": "2079814861929021801",
+        "created_at": "2026-07-22T06:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T07:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079814861929021801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RF0g2htRRB",
+              "end": 37,
+              "expanded_url": "https://x.com/mogitatekantyou/status/2079814861929021801/photo/1",
+              "media_key": "3_2079814855805280256",
+              "start": 14,
+              "url": "https://t.co/RF0g2htRRB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079814861929021801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 18955,
+          "like_count": 1476,
+          "quote_count": 10,
+          "reply_count": 3,
+          "retweet_count": 263
+        },
+        "reply_settings": "everyone",
+        "text": "0093のノア家、家族写真 https://t.co/RF0g2htRRB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079814855805280256"
+          ],
+          "media_source_tweet_id": [
+            "2079814861929021801"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "conversation_id": "2079911561561284627",
+        "created_at": "2026-07-22T12:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079911561561284627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1963657833939111936",
+              "start": 3,
+              "username": "mogitatekantyou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RF0g2htRRB",
+              "end": 58,
+              "expanded_url": "https://x.com/mogitatekantyou/status/2079814861929021801/photo/1",
+              "media_key": "3_2079814855805280256",
+              "start": 35,
+              "url": "https://t.co/RF0g2htRRB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079911561561284627",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 263
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079814861929021801",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mogitatekantyou: 0093のノア家、家族写真 https://t.co/RF0g2htRRB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 179,
+          "like_count": 6255,
+          "listed_count": 1,
+          "media_count": 353,
+          "tweet_count": 2447
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-04T17:38:16.000Z",
+        "description": "18↑/ノ了家・🥦受中心/ポイピクhttps://t.co/IBo52W6M4p プラベ https://t.co/0uCdoDGYMK / skeb https://t.co/pwfNTnzy6a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "poipiku.com/12316356/",
+                "end": 40,
+                "expanded_url": "https://poipiku.com/12316356/",
+                "start": 17,
+                "url": "https://t.co/IBo52W6M4p"
+              },
+              {
+                "display_url": "privatter.me/user/mogitatek…",
+                "end": 68,
+                "expanded_url": "https://privatter.me/user/mogitatekantyou",
+                "start": 45,
+                "url": "https://t.co/0uCdoDGYMK"
+              },
+              {
+                "display_url": "skeb.jp/@mogitatekanty…",
+                "end": 99,
+                "expanded_url": "https://skeb.jp/@mogitatekantyou",
+                "start": 76,
+                "url": "https://t.co/pwfNTnzy6a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/4i9pev4gu…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/4i9pev4gufilu5sb/",
+                "start": 0,
+                "url": "https://t.co/ZaLWj2S0u5"
+              }
+            ]
+          }
+        },
+        "id": "1963657833939111936",
+        "location": "無断転載・AI学習等お控えください",
+        "name": "もぎたてブロッコリー🔰",
+        "pinned_tweet_id": "2054158057165443374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998082745881468928/bxz3_WrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2923,
+          "following_count": 15,
+          "like_count": 2687,
+          "listed_count": 9,
+          "media_count": 498,
+          "tweet_count": 3137
+        },
+        "url": "https://t.co/ZaLWj2S0u5",
+        "username": "mogitatekantyou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080655890340892672"
+      ],
+      "media_source_tweet_id": [
+        "2080655894392521138"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "conversation_id": "2081351943365271756",
+    "created_at": "2026-07-26T12:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081351943365271756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2153267569",
+          "start": 3,
+          "username": "gen0m1cs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/67iHfLMWW1",
+          "end": 41,
+          "expanded_url": "https://x.com/gen0m1cs/status/2080655894392521138/photo/1",
+          "media_key": "3_2080655890340892672",
+          "start": 18,
+          "url": "https://t.co/67iHfLMWW1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081351943365271756",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080655894392521138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gen0m1cs: '…' https://t.co/67iHfLMWW1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1532,
+        "media_key": "3_2080655890340892672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_5giuX0AAxdMC.jpg",
+        "width": 2726
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080655890340892672"
+          ]
+        },
+        "author_id": "2153267569",
+        "conversation_id": "2080655894392521138",
+        "created_at": "2026-07-24T14:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080655894392521138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/67iHfLMWW1",
+              "end": 27,
+              "expanded_url": "https://x.com/gen0m1cs/status/2080655894392521138/photo/1",
+              "media_key": "3_2080655890340892672",
+              "start": 4,
+              "url": "https://t.co/67iHfLMWW1"
+            },
+            {
+              "display_url": "x.com/statnews/statu…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/statnews/status/2080652415137677332",
+              "start": 28,
+              "url": "https://t.co/MvB4rF23cd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080655894392521138",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 139518,
+          "like_count": 3213,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080652415137677332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "'…' https://t.co/67iHfLMWW1 https://t.co/MvB4rF23cd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080655890340892672"
+          ],
+          "media_source_tweet_id": [
+            "2080655894392521138"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "conversation_id": "2081351943365271756",
+        "created_at": "2026-07-26T12:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081351943365271756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2153267569",
+              "start": 3,
+              "username": "gen0m1cs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/67iHfLMWW1",
+              "end": 41,
+              "expanded_url": "https://x.com/gen0m1cs/status/2080655894392521138/photo/1",
+              "media_key": "3_2080655890340892672",
+              "start": 18,
+              "url": "https://t.co/67iHfLMWW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081351943365271756",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080655894392521138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gen0m1cs: '…' https://t.co/67iHfLMWW1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 175,
+          "like_count": 6394,
+          "listed_count": 1,
+          "media_count": 356,
+          "tweet_count": 2472
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2013-10-24T16:26:59.000Z",
+        "description": "Genomics PhD student, @pennbgs @UPennGCB; genetic mapping, neurodegeneration, & related neuroimmune loops. Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "pennbgs"
+              },
+              {
+                "end": 40,
+                "start": 31,
+                "username": "UPennGCB"
+              }
+            ]
+          }
+        },
+        "id": "2153267569",
+        "location": "🇺🇸 🇭🇺",
+        "name": "gen0m1cs",
+        "pinned_tweet_id": "2056856578876121425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987577945024499712/tUBd5zqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29989,
+          "following_count": 1725,
+          "like_count": 47078,
+          "listed_count": 147,
+          "media_count": 6772,
+          "tweet_count": 27268
+        },
+        "url": "",
+        "username": "gen0m1cs",
+        "verified": true
+      }
+    ]
+  }
+}

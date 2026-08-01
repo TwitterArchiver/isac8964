@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2051674946787742095",
+    "created_at": "2026-05-05T15:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T16:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051680897129132125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1327607257513619456",
+          "start": 0,
+          "username": "Stup1d808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051680897129132125",
+    "in_reply_to_user_id": "1327607257513619456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051674946787742095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stup1d808 帖主反串的啦別在意:)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2051674946787742095",
+        "created_at": "2026-05-05T15:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051680897129132125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1327607257513619456",
+              "start": 0,
+              "username": "Stup1d808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051680897129132125",
+        "in_reply_to_user_id": "1327607257513619456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051674946787742095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stup1d808 帖主反串的啦別在意:)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1327607257513619456",
+        "conversation_id": "2051674946787742095",
+        "created_at": "2026-05-05T14:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051674946787742095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2051673299894350160",
+              "start": 22,
+              "url": "https://t.co/QOELBB2MYf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051674946787742095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051673299894350160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你們怎麼看？\n我是看不出這間店有什麼問題啦 https://t.co/QOELBB2MYf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CN/EN/ES xtx\nBOS(sometimes)/CT",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2005063407352119575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 156,
+          "like_count": 5396,
+          "listed_count": 1,
+          "media_count": 332,
+          "tweet_count": 2233
+        },
+        "username": "isac8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-14T13:40:22.000Z",
+        "description": "🇹🇼 CHT/ENG furry ⑨ 安卓人 AMAB\nhttps://t.co/YUzquA8WpI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/stup1d…",
+                "end": 51,
+                "expanded_url": "https://bsky.app/profile/stup1d808.bsky.social",
+                "start": 28,
+                "url": "https://t.co/YUzquA8WpI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@StupidBobTW2",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@StupidBobTW2",
+                "start": 0,
+                "url": "https://t.co/dL0XC6l57o"
+              }
+            ]
+          }
+        },
+        "id": "1327607257513619456",
+        "location": "Taiwan is country",
+        "name": "笨蛋包柏🇹🇼",
+        "pinned_tweet_id": "1665314571278602241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040780095435190273/od0SYN4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 714,
+          "like_count": 91828,
+          "listed_count": 8,
+          "media_count": 795,
+          "tweet_count": 44009
+        },
+        "url": "https://t.co/dL0XC6l57o",
+        "username": "Stup1d808",
+        "verified": false
+      }
+    ]
+  }
+}

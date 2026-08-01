@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2074715560072610220",
+    "created_at": "2026-07-09T07:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T08:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075115838404010245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809233055196073984",
+          "start": 0,
+          "username": "Jy666992"
+        },
+        {
+          "end": 22,
+          "id": "1846596976265326592",
+          "start": 10,
+          "username": "voidsama777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075115838404010245",
+    "in_reply_to_user_id": "1809233055196073984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075111606825185756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jy666992 @voidsama777 纯dxm糖浆，美味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2074715560072610220",
+        "created_at": "2026-07-09T07:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075115838404010245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809233055196073984",
+              "start": 0,
+              "username": "Jy666992"
+            },
+            {
+              "end": 22,
+              "id": "1846596976265326592",
+              "start": 10,
+              "username": "voidsama777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075115838404010245",
+        "in_reply_to_user_id": "1809233055196073984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075111606825185756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jy666992 @voidsama777 纯dxm糖浆，美味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809233055196073984",
+        "conversation_id": "2074715560072610220",
+        "created_at": "2026-07-09T06:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075111606825185756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1846596976265326592",
+              "start": 0,
+              "username": "voidsama777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075111606825185756",
+        "in_reply_to_user_id": "1846596976265326592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074715560072610220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@voidsama777 这是啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\ncis-heterosexual lgbt-phobic gtfo",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2005063407352119575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 170,
+          "like_count": 5964,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 2386
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "光与水相遇 莲花自然生长\n时而像人时而像恶魔，暂时没找到解决方法\n解离美学爱好者/自毁倾向\n我其实一直在寻找我到底怎么活着（真实的）\n在泰上学（脑子不好总惹事感觉哪天就要被开除）",
+        "id": "1809233055196073984",
+        "name": "烨篮子",
+        "pinned_tweet_id": "2074687552712548840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 302,
+          "like_count": 1362,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 1015
+        },
+        "url": "",
+        "username": "Jy666992",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T17:01:02.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡ ✞ \n✟⛧✟ (ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡✦\n⟡ v-kei ꙳scenecore lover ♡✦ rebzyyx₊kets4eki fans ⭒\n\n✞ ♡ dm开放 欢迎找我聊天喵 ♡ ✞",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "https://twitter.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/hBwaD5CsX6"
+              }
+            ]
+          }
+        },
+        "id": "1846596976265326592",
+        "location": "ＩＮＴＥＲＮＥＴ",
+        "name": "✟ クウキ ✟  🎌🎌🎌🇯🇵🇹🇼🇺🇸🇦🇺🇩🇪🇲🇨",
+        "pinned_tweet_id": "2067943198509707636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060762569317679104/_n0GCM6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 491,
+          "like_count": 16740,
+          "listed_count": 2,
+          "media_count": 595,
+          "tweet_count": 2807
+        },
+        "url": "https://t.co/hBwaD5CsX6",
+        "username": "voidsama777",
+        "verified": true
+      }
+    ]
+  }
+}

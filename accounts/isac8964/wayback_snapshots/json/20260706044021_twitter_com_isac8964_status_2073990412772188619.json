@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2073826531269578786",
+    "created_at": "2026-07-06T04:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073990412772188619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "114382613",
+          "start": 0,
+          "username": "PrettiestBitch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073990412772188619",
+    "in_reply_to_user_id": "114382613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073826531269578786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PrettiestBitch 一点点猛喝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2073826531269578786",
+        "created_at": "2026-07-06T04:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073990412772188619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "114382613",
+              "start": 0,
+              "username": "PrettiestBitch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073990412772188619",
+        "in_reply_to_user_id": "114382613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073826531269578786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PrettiestBitch 一点点猛喝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "114382613",
+        "conversation_id": "2073826531269578786",
+        "created_at": "2026-07-05T17:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073826531269578786"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073826531269578786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 883,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来不想喝那个爷爷不泡茶因为这个名字实在太傻逼了结果突然想起这个牌子之前好像辱女了然后一秒下单了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\ncis-heterosexual lgbt-phobic gtfo",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2005063407352119575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 167,
+          "like_count": 5896,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 2375
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2010-02-15T06:33:21.000Z",
+        "description": "发这样的推文让中国人感到很愤怒，懂吗？",
+        "id": "114382613",
+        "name": "秦8彻9的6逼4",
+        "pinned_tweet_id": "2073808130379833497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072394550228946944/EBn3qa4N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 69,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 633
+        },
+        "url": "",
+        "username": "PrettiestBitch",
+        "verified": false
+      }
+    ]
+  }
+}

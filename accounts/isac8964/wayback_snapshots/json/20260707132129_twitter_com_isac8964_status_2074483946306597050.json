@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2074483946306597050",
+    "created_at": "2026-07-07T13:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T14:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074483946306597050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1595700376203771904",
+          "start": 3,
+          "username": "user88881102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074483946306597050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073135557765669115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @user88881102: 我不是真傻，我问出那些谷歌可以回答的问题只是为了和你聊天。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2074483946306597050",
+        "created_at": "2026-07-07T13:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074483946306597050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1595700376203771904",
+              "start": 3,
+              "username": "user88881102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074483946306597050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073135557765669115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @user88881102: 我不是真傻，我问出那些谷歌可以回答的问题只是为了和你聊天。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595700376203771904",
+        "conversation_id": "2073135557765669115",
+        "created_at": "2026-07-03T20:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T21:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073135557765669115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073135557765669115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4706,
+          "like_count": 89,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我不是真傻，我问出那些谷歌可以回答的问题只是为了和你聊天。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\ncis-heterosexual lgbt-phobic gtfo",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2005063407352119575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 170,
+          "like_count": 5924,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 2378
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-24T08:46:39.000Z",
+        "description": "我写字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/cllKb",
+                "end": 23,
+                "expanded_url": "https://boxd.it/cllKb",
+                "start": 0,
+                "url": "https://t.co/iAm7icHPSY"
+              }
+            ]
+          }
+        },
+        "id": "1595700376203771904",
+        "name": "yangfan666",
+        "pinned_tweet_id": "1595701757954650112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799529203525996544/uZtnEPpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5148,
+          "following_count": 3631,
+          "like_count": 6051,
+          "listed_count": 7,
+          "media_count": 626,
+          "tweet_count": 3718
+        },
+        "url": "https://t.co/iAm7icHPSY",
+        "username": "user88881102",
+        "verified": true
+      }
+    ]
+  }
+}

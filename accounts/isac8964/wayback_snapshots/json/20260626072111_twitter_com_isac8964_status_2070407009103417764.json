@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070203080608718848",
+        "3_2070203081892196352"
+      ],
+      "media_source_tweet_id": [
+        "2070203084836598206",
+        "2070203084836598206"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2070407009103417764",
+    "created_at": "2026-06-26T07:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T08:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070407009103417764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1150371094903181313",
+          "start": 3,
+          "username": "Tangsen_Malum"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XJ2Mxr0DRA",
+          "end": 74,
+          "expanded_url": "https://x.com/Tangsen_Malum/status/2070203084836598206/photo/1",
+          "media_key": "3_2070203080608718848",
+          "start": 51,
+          "url": "https://t.co/XJ2Mxr0DRA"
+        },
+        {
+          "display_url": "pic.x.com/XJ2Mxr0DRA",
+          "end": 74,
+          "expanded_url": "https://x.com/Tangsen_Malum/status/2070203084836598206/photo/1",
+          "media_key": "3_2070203081892196352",
+          "start": 51,
+          "url": "https://t.co/XJ2Mxr0DRA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070407009103417764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 173
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070203084836598206",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tangsen_Malum: 以防你們沒看過在漫威vs卡普空3裡Wesker穿著拘束衣上法庭 https://t.co/XJ2Mxr0DRA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 937,
+        "media_key": "3_2070203080608718848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrWu8CaIAAh_i0.jpg",
+        "width": 1443
+      },
+      {
+        "height": 952,
+        "media_key": "3_2070203081892196352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrWvA0acAA6gpM.jpg",
+        "width": 1369
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070203080608718848",
+            "3_2070203081892196352"
+          ],
+          "media_source_tweet_id": [
+            "2070203084836598206",
+            "2070203084836598206"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070407009103417764",
+        "created_at": "2026-06-26T07:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070407009103417764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1150371094903181313",
+              "start": 3,
+              "username": "Tangsen_Malum"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XJ2Mxr0DRA",
+              "end": 74,
+              "expanded_url": "https://x.com/Tangsen_Malum/status/2070203084836598206/photo/1",
+              "media_key": "3_2070203080608718848",
+              "start": 51,
+              "url": "https://t.co/XJ2Mxr0DRA"
+            },
+            {
+              "display_url": "pic.x.com/XJ2Mxr0DRA",
+              "end": 74,
+              "expanded_url": "https://x.com/Tangsen_Malum/status/2070203084836598206/photo/1",
+              "media_key": "3_2070203081892196352",
+              "start": 51,
+              "url": "https://t.co/XJ2Mxr0DRA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070407009103417764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 173
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070203084836598206",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tangsen_Malum: 以防你們沒看過在漫威vs卡普空3裡Wesker穿著拘束衣上法庭 https://t.co/XJ2Mxr0DRA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070203080608718848",
+            "3_2070203081892196352"
+          ]
+        },
+        "author_id": "1150371094903181313",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070203084836598206",
+        "created_at": "2026-06-25T17:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070203084836598206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XJ2Mxr0DRA",
+              "end": 55,
+              "expanded_url": "https://x.com/Tangsen_Malum/status/2070203084836598206/photo/1",
+              "media_key": "3_2070203080608718848",
+              "start": 32,
+              "url": "https://t.co/XJ2Mxr0DRA"
+            },
+            {
+              "display_url": "pic.x.com/XJ2Mxr0DRA",
+              "end": 55,
+              "expanded_url": "https://x.com/Tangsen_Malum/status/2070203084836598206/photo/1",
+              "media_key": "3_2070203081892196352",
+              "start": 32,
+              "url": "https://t.co/XJ2Mxr0DRA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070203084836598206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 288,
+          "impression_count": 33335,
+          "like_count": 1264,
+          "quote_count": 29,
+          "reply_count": 6,
+          "retweet_count": 173
+        },
+        "reply_settings": "everyone",
+        "text": "以防你們沒看過在漫威vs卡普空3裡Wesker穿著拘束衣上法庭 https://t.co/XJ2Mxr0DRA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\napprove request randomly",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2005063407352119575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 146,
+          "like_count": 5735,
+          "listed_count": 1,
+          "media_count": 345,
+          "tweet_count": 2332
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-14T11:46:56.000Z",
+        "description": "我真的很不會社交 |\n♀️ | Taiwanese🇹🇼 | 中文/Eng | ⚠️Don't use my art without permission | Alt: @Bad_Appog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "Bad_Appog"
+              }
+            ]
+          }
+        },
+        "id": "1150371094903181313",
+        "location": "Homeless",
+        "name": "Tangsen糖森🍎（社交能量低弱版）",
+        "pinned_tweet_id": "2030349271602721025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048488256573247488/3qTX9cMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 118,
+          "like_count": 4298,
+          "listed_count": 4,
+          "media_count": 816,
+          "tweet_count": 3165
+        },
+        "url": "",
+        "username": "Tangsen_Malum",
+        "verified": false
+      }
+    ]
+  }
+}

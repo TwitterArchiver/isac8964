@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2077741976112578721",
+    "created_at": "2026-07-17T02:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T03:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077947954594542025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1629080401837948929",
+          "start": 0,
+          "username": "Lea97141"
+        },
+        {
+          "end": 25,
+          "id": "1952607565659172865",
+          "start": 10,
+          "username": "SUIFENGfreedom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077947954594542025",
+    "in_reply_to_user_id": "1629080401837948929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077751451955400867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lea97141 @SUIFENGfreedom 后面的没问题但是mandarin和满洲人一点关系没有，这个词是元明时期葡萄牙人接触中国人官员并称呼为mandarim。后来进入其他欧洲语言被固定为mandarin"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2077741976112578721",
+        "created_at": "2026-07-17T02:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077947954594542025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1629080401837948929",
+              "start": 0,
+              "username": "Lea97141"
+            },
+            {
+              "end": 25,
+              "id": "1952607565659172865",
+              "start": 10,
+              "username": "SUIFENGfreedom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077947954594542025",
+        "in_reply_to_user_id": "1629080401837948929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077751451955400867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lea97141 @SUIFENGfreedom 后面的没问题但是mandarin和满洲人一点关系没有，这个词是元明时期葡萄牙人接触中国人官员并称呼为mandarim。后来进入其他欧洲语言被固定为mandarin"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629080401837948929",
+        "conversation_id": "2077741976112578721",
+        "created_at": "2026-07-16T13:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077751451955400867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1952607565659172865",
+              "start": 0,
+              "username": "SUIFENGfreedom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077751451955400867",
+        "in_reply_to_user_id": "1952607565659172865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3336,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077741976112578721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SUIFENGfreedom Mandarin - 满洲话，清朝的官方语言。这才是当下中国官话的准确描述。\n\n而所谓的 “Chinese” 在幅员广阔的中国并不存在。广东话、福建话、上海话、河南话、陕西话……各不相同，根本就没有什么所谓的“中国话”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2071930940834635816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 175,
+          "like_count": 6155,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 2420
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-24T11:27:43.000Z",
+        "description": "❤️🇺🇸🩵😻🌱🌺🌼🦀🐳🍄☘️🌸",
+        "id": "1629080401837948929",
+        "location": "United States",
+        "name": "Sea 海洋 🌊",
+        "pinned_tweet_id": "2077065821571191102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940619872909570048/JIq3SjHt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 282,
+          "like_count": 104358,
+          "listed_count": 11,
+          "media_count": 386,
+          "tweet_count": 10493
+        },
+        "url": "",
+        "username": "Lea97141",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-05T05:48:27.000Z",
+        "description": "｜보수주의자｜자유주의｜여행｜맛집｜우파｜\n一位年轻  且心念圣上龙体的海外孤忠\n内容要情绪有数据 要数据有情绪 欢迎关注\n让我们一起成长",
+        "id": "1952607565659172865",
+        "location": "TAIPEI",
+        "name": "SUIFENG （수이펑）",
+        "pinned_tweet_id": "2070829888911855636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952608738344665088/WzLSq0Pu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2045,
+          "following_count": 678,
+          "like_count": 1946,
+          "listed_count": 24,
+          "media_count": 456,
+          "tweet_count": 10916
+        },
+        "url": "",
+        "username": "SUIFENGfreedom",
+        "verified": true
+      }
+    ]
+  }
+}

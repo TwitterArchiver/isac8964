@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2078500699705631171",
+    "created_at": "2026-07-18T15:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078500699705631171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1877758854156763136",
+          "start": 3,
+          "username": "BaalHaded"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078500699705631171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078203080647102961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BaalHaded: 哎我发现推特这破地方也没比内网好多少。\n不过，内网热衷于发表极右翼暴论的大多都是incel男，中推的类似生态位上却是一群小女孩。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2078500699705631171",
+        "created_at": "2026-07-18T15:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078500699705631171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1877758854156763136",
+              "start": 3,
+              "username": "BaalHaded"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078500699705631171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078203080647102961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BaalHaded: 哎我发现推特这破地方也没比内网好多少。\n不过，内网热衷于发表极右翼暴论的大多都是incel男，中推的类似生态位上却是一群小女孩。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877758854156763136",
+        "conversation_id": "2078203080647102961",
+        "created_at": "2026-07-17T19:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078203080647102961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QwQIO3O/status…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/QwQIO3O/status/2078045803617333419",
+              "start": 65,
+              "url": "https://t.co/MMsTCO1VXK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078203080647102961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3147,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078045803617333419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎我发现推特这破地方也没比内网好多少。\n不过，内网热衷于发表极右翼暴论的大多都是incel男，中推的类似生态位上却是一群小女孩。 https://t.co/MMsTCO1VXK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2071930940834635816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 178,
+          "like_count": 6182,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 2430
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-10T16:46:18.000Z",
+        "description": "留意甜言蜜语与夜路小径。",
+        "id": "1877758854156763136",
+        "location": "Dreamlands",
+        "name": "臧否",
+        "pinned_tweet_id": "2009933425596391569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877804624071028736/rXsqD2ot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 973,
+          "like_count": 21001,
+          "listed_count": 4,
+          "media_count": 214,
+          "tweet_count": 4542
+        },
+        "url": "",
+        "username": "BaalHaded",
+        "verified": false
+      }
+    ]
+  }
+}

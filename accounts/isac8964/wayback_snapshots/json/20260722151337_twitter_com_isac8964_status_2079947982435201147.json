@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079874503652577280",
+        "3_2079874503602315264"
+      ],
+      "media_source_tweet_id": [
+        "2079874508832620744",
+        "2079874508832620744"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2079947982435201147",
+    "created_at": "2026-07-22T15:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T16:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079947982435201147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "899877118753951744",
+          "start": 3,
+          "username": "capricornxcos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GwO5YozqLZ",
+          "end": 81,
+          "expanded_url": "https://x.com/capricornxcos/status/2079874508832620744/photo/1",
+          "media_key": "3_2079874503652577280",
+          "start": 58,
+          "url": "https://t.co/GwO5YozqLZ"
+        },
+        {
+          "display_url": "pic.x.com/GwO5YozqLZ",
+          "end": 81,
+          "expanded_url": "https://x.com/capricornxcos/status/2079874508832620744/photo/1",
+          "media_key": "3_2079874503602315264",
+          "start": 58,
+          "url": "https://t.co/GwO5YozqLZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079947982435201147",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079874508832620744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @capricornxcos: 先日夏コミ写真集用の撮影に行ってきた✨\nパイスー頑張って作ったよぉぉ！！！！ https://t.co/GwO5YozqLZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2079874503652577280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0y12eakAAPV-w.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079874503602315264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0y12SboAAWWkK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079874503652577280",
+            "3_2079874503602315264"
+          ]
+        },
+        "author_id": "899877118753951744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2079874508832620744",
+        "created_at": "2026-07-22T10:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079874508832620744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwO5YozqLZ",
+              "end": 62,
+              "expanded_url": "https://x.com/capricornxcos/status/2079874508832620744/photo/1",
+              "media_key": "3_2079874503652577280",
+              "start": 39,
+              "url": "https://t.co/GwO5YozqLZ"
+            },
+            {
+              "display_url": "pic.x.com/GwO5YozqLZ",
+              "end": 62,
+              "expanded_url": "https://x.com/capricornxcos/status/2079874508832620744/photo/1",
+              "media_key": "3_2079874503602315264",
+              "start": 39,
+              "url": "https://t.co/GwO5YozqLZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079874508832620744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3630,
+          "like_count": 131,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "先日夏コミ写真集用の撮影に行ってきた✨\nパイスー頑張って作ったよぉぉ！！！！ https://t.co/GwO5YozqLZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079874503652577280",
+            "3_2079874503602315264"
+          ],
+          "media_source_tweet_id": [
+            "2079874508832620744",
+            "2079874508832620744"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2079947982435201147",
+        "created_at": "2026-07-22T15:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079947982435201147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "899877118753951744",
+              "start": 3,
+              "username": "capricornxcos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwO5YozqLZ",
+              "end": 81,
+              "expanded_url": "https://x.com/capricornxcos/status/2079874508832620744/photo/1",
+              "media_key": "3_2079874503652577280",
+              "start": 58,
+              "url": "https://t.co/GwO5YozqLZ"
+            },
+            {
+              "display_url": "pic.x.com/GwO5YozqLZ",
+              "end": 81,
+              "expanded_url": "https://x.com/capricornxcos/status/2079874508832620744/photo/1",
+              "media_key": "3_2079874503602315264",
+              "start": 58,
+              "url": "https://t.co/GwO5YozqLZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079947982435201147",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079874508832620744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @capricornxcos: 先日夏コミ写真集用の撮影に行ってきた✨\nパイスー頑張って作ったよぉぉ！！！！ https://t.co/GwO5YozqLZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 180,
+          "like_count": 6268,
+          "listed_count": 1,
+          "media_count": 353,
+          "tweet_count": 2449
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-22T06:13:18.000Z",
+        "description": "珍装趣味のサブカルクソ野郎。人間1回目。30↑遊戯王（東映、DM、GX）とハマーン様に出会い人生が狂う。ガンダム（Z、ZZ、V、∀、SEED、Gレコ）が好き！！∀ガンダム贔屓！ハマーン様の夢俗物。YD固定。御影草時と馬宮に狂い根室記念館に住みたい！FTX ※無断掲載NG ※会ったことないひとあんまフォロバできない地球人",
+        "id": "899877118753951744",
+        "location": "根室記念館",
+        "name": "チル@C108 南1ホールo-13a",
+        "pinned_tweet_id": "2062831610471592223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954033854647611393/ufdrIayY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2825,
+          "following_count": 926,
+          "like_count": 44256,
+          "listed_count": 45,
+          "media_count": 1873,
+          "tweet_count": 51382
+        },
+        "url": "",
+        "username": "capricornxcos",
+        "verified": true
+      }
+    ]
+  }
+}

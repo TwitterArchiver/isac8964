@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2051385334559371342",
+    "created_at": "2026-05-04T21:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T22:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051408457186635842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1562676055932293123",
+          "start": 0,
+          "username": "wuwuFuFuFu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051408457186635842",
+    "in_reply_to_user_id": "1562676055932293123",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051385334559371342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuwuFuFuFu 老公"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2051385334559371342].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2051385334559371342",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2051385334559371342"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2051385334559371342",
+        "created_at": "2026-05-04T21:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T22:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051408457186635842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1562676055932293123",
+              "start": 0,
+              "username": "wuwuFuFuFu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051408457186635842",
+        "in_reply_to_user_id": "1562676055932293123",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051385334559371342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuwuFuFuFu 老公"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CN/EN/ES xtx\nBOS(sometimes)/CT",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2005063407352119575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 156,
+          "like_count": 5382,
+          "listed_count": 1,
+          "media_count": 331,
+          "tweet_count": 2229
+        },
+        "username": "isac8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T05:39:50.000Z",
+        "description": "这是主播的里+本体日常推/人妖queer✖️2/莉音·泪目·戴肯最忠实的保安\\表：@Meusmeow5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Meusmeow5"
+              }
+            ]
+          }
+        },
+        "id": "1562676055932293123",
+        "location": "圣尤利安医院",
+        "name": "🐈‍⬛⬛️▪️🐦‍⬛",
+        "pinned_tweet_id": "2033930035174818132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047344407364718592/tnjSVXvY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 122,
+          "like_count": 2439,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 247
+        },
+        "username": "wuwuFuFuFu",
+        "verified": false
+      }
+    ]
+  }
+}

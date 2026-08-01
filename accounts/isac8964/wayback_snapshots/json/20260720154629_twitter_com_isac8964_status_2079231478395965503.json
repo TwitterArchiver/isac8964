@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079231329506562048",
+        "3_2079231329493999616",
+        "3_2079231329477259265"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "conversation_id": "2079231478395965503",
+    "created_at": "2026-07-20T15:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T16:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079231478395965503"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2y2IkQgL16",
+          "end": 23,
+          "expanded_url": "https://x.com/isac8964/status/2079231478395965503/video/1",
+          "media_key": "13_2079231329506562048",
+          "start": 0,
+          "url": "https://t.co/2y2IkQgL16"
+        },
+        {
+          "display_url": "pic.x.com/2y2IkQgL16",
+          "end": 23,
+          "expanded_url": "https://x.com/isac8964/status/2079231478395965503/video/1",
+          "media_key": "3_2079231329493999616",
+          "start": 0,
+          "url": "https://t.co/2y2IkQgL16"
+        },
+        {
+          "display_url": "pic.x.com/2y2IkQgL16",
+          "end": 23,
+          "expanded_url": "https://x.com/isac8964/status/2079231478395965503/video/1",
+          "media_key": "3_2079231329477259265",
+          "start": 0,
+          "url": "https://t.co/2y2IkQgL16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079231478395965503",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "https://t.co/2y2IkQgL16"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15118,
+        "height": 1440,
+        "media_key": "13_2079231329506562048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079231329506562048/img/fuLoaYJ437MSHp6M.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079231329506562048/vid/avc1/480x270/JEfp5xOg2m6cAi6X.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079231329506562048/vid/avc1/1280x720/LdymAerYx8iR7U1X.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079231329506562048/pl/BsKZAEQGK3LKn49c.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079231329506562048/vid/avc1/2560x1440/6m3YfojYUz4Z1T1j.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079231329506562048/vid/avc1/640x360/X_rXcOB7UB37_B9F.mp4"
+          }
+        ],
+        "width": 2560
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079231329493999616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrp4MBaYAA0DRO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 549,
+        "media_key": "3_2079231329477259265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrp4L9a8AEiZIZ.jpg",
+        "width": 847
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079231329506562048",
+            "3_2079231329493999616",
+            "3_2079231329477259265"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "conversation_id": "2079231478395965503",
+        "created_at": "2026-07-20T15:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079231478395965503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2y2IkQgL16",
+              "end": 23,
+              "expanded_url": "https://x.com/isac8964/status/2079231478395965503/video/1",
+              "media_key": "13_2079231329506562048",
+              "start": 0,
+              "url": "https://t.co/2y2IkQgL16"
+            },
+            {
+              "display_url": "pic.x.com/2y2IkQgL16",
+              "end": 23,
+              "expanded_url": "https://x.com/isac8964/status/2079231478395965503/video/1",
+              "media_key": "3_2079231329493999616",
+              "start": 0,
+              "url": "https://t.co/2y2IkQgL16"
+            },
+            {
+              "display_url": "pic.x.com/2y2IkQgL16",
+              "end": 23,
+              "expanded_url": "https://x.com/isac8964/status/2079231478395965503/video/1",
+              "media_key": "3_2079231329477259265",
+              "start": 0,
+              "url": "https://t.co/2y2IkQgL16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079231478395965503",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "https://t.co/2y2IkQgL16"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 180,
+          "like_count": 6221,
+          "listed_count": 1,
+          "media_count": 352,
+          "tweet_count": 2436
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      }
+    ]
+  }
+}

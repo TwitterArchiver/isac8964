@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072203087545237504",
+        "3_2072203088740655104"
+      ],
+      "media_source_tweet_id": [
+        "2072203091618001394",
+        "2072203091618001394"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "conversation_id": "2072220935051170226",
+    "created_at": "2026-07-01T07:29:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T08:29:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072220935051170226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2040057747924828160",
+          "start": 3,
+          "username": "poorspider1014"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a71J5oChX0",
+          "end": 70,
+          "expanded_url": "https://x.com/poorspider1014/status/2072203091618001394/photo/1",
+          "media_key": "3_2072203087545237504",
+          "start": 47,
+          "url": "https://t.co/a71J5oChX0"
+        },
+        {
+          "display_url": "pic.x.com/a71J5oChX0",
+          "end": 70,
+          "expanded_url": "https://x.com/poorspider1014/status/2072203091618001394/photo/1",
+          "media_key": "3_2072203088740655104",
+          "start": 47,
+          "url": "https://t.co/a71J5oChX0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072220935051170226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072203091618001394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @poorspider1014: 这里是姜鸽江 大号惨遭封号 转生来也 求转发 求转发 https://t.co/a71J5oChX0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2072203087545237504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHxuqeaAAAwIKW.jpg",
+        "width": 1500
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2072203088740655104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHxuu7aoAAoQ8f.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072203087545237504",
+            "3_2072203088740655104"
+          ],
+          "media_source_tweet_id": [
+            "2072203091618001394",
+            "2072203091618001394"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "conversation_id": "2072220935051170226",
+        "created_at": "2026-07-01T07:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072220935051170226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2040057747924828160",
+              "start": 3,
+              "username": "poorspider1014"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a71J5oChX0",
+              "end": 70,
+              "expanded_url": "https://x.com/poorspider1014/status/2072203091618001394/photo/1",
+              "media_key": "3_2072203087545237504",
+              "start": 47,
+              "url": "https://t.co/a71J5oChX0"
+            },
+            {
+              "display_url": "pic.x.com/a71J5oChX0",
+              "end": 70,
+              "expanded_url": "https://x.com/poorspider1014/status/2072203091618001394/photo/1",
+              "media_key": "3_2072203088740655104",
+              "start": 47,
+              "url": "https://t.co/a71J5oChX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072220935051170226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072203091618001394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @poorspider1014: 这里是姜鸽江 大号惨遭封号 转生来也 求转发 求转发 https://t.co/a71J5oChX0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072203087545237504",
+            "3_2072203088740655104"
+          ]
+        },
+        "author_id": "2040057747924828160",
+        "conversation_id": "2072203091618001394",
+        "created_at": "2026-07-01T06:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072203091618001394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a71J5oChX0",
+              "end": 50,
+              "expanded_url": "https://x.com/poorspider1014/status/2072203091618001394/photo/1",
+              "media_key": "3_2072203087545237504",
+              "start": 27,
+              "url": "https://t.co/a71J5oChX0"
+            },
+            {
+              "display_url": "pic.x.com/a71J5oChX0",
+              "end": 50,
+              "expanded_url": "https://x.com/poorspider1014/status/2072203091618001394/photo/1",
+              "media_key": "3_2072203088740655104",
+              "start": 27,
+              "url": "https://t.co/a71J5oChX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072203091618001394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这里是姜鸽江 大号惨遭封号 转生来也 求转发 求转发 https://t.co/a71J5oChX0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\napprove request randomly",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2005063407352119575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 151,
+          "like_count": 5777,
+          "listed_count": 1,
+          "media_count": 347,
+          "tweet_count": 2345
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-03T13:24:29.000Z",
+        "description": "CN:@jianggejiang\nEN:@jiangziqiqqq\n备用小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "jianggejiang"
+              },
+              {
+                "end": 33,
+                "start": 20,
+                "username": "jiangziqiqqq"
+              }
+            ]
+          }
+        },
+        "id": "2040057747924828160",
+        "name": "姜鴿江",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040059914228580352/b7FRK140_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 16,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "poorspider1014",
+        "verified": false
+      }
+    ]
+  }
+}

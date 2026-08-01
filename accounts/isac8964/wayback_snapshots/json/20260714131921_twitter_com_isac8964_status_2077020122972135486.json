@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076630170874908672"
+      ],
+      "media_source_tweet_id": [
+        "2076630178919600294"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "conversation_id": "2077020122972135486",
+    "created_at": "2026-07-14T13:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T14:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077020122972135486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1509455137684656131",
+          "start": 3,
+          "username": "ZLgPRMFlGeGQDsy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wN7EJ04fzf",
+          "end": 59,
+          "expanded_url": "https://x.com/ZLgPRMFlGeGQDsy/status/2076630178919600294/photo/1",
+          "media_key": "3_2076630170874908672",
+          "start": 36,
+          "url": "https://t.co/wN7EJ04fzf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077020122972135486",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076630178919600294",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZLgPRMFlGeGQDsy: 暑いのでさらに暑苦しい絵を… https://t.co/wN7EJ04fzf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2076630170874908672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGsI1DbkAALn-s.jpg",
+        "width": 1750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076630170874908672"
+          ],
+          "media_source_tweet_id": [
+            "2076630178919600294"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "conversation_id": "2077020122972135486",
+        "created_at": "2026-07-14T13:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077020122972135486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1509455137684656131",
+              "start": 3,
+              "username": "ZLgPRMFlGeGQDsy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wN7EJ04fzf",
+              "end": 59,
+              "expanded_url": "https://x.com/ZLgPRMFlGeGQDsy/status/2076630178919600294/photo/1",
+              "media_key": "3_2076630170874908672",
+              "start": 36,
+              "url": "https://t.co/wN7EJ04fzf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077020122972135486",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076630178919600294",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZLgPRMFlGeGQDsy: 暑いのでさらに暑苦しい絵を… https://t.co/wN7EJ04fzf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076630170874908672"
+          ]
+        },
+        "author_id": "1509455137684656131",
+        "conversation_id": "2076630178919600294",
+        "created_at": "2026-07-13T11:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076630178919600294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wN7EJ04fzf",
+              "end": 38,
+              "expanded_url": "https://x.com/ZLgPRMFlGeGQDsy/status/2076630178919600294/photo/1",
+              "media_key": "3_2076630170874908672",
+              "start": 15,
+              "url": "https://t.co/wN7EJ04fzf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076630178919600294",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 7809,
+          "like_count": 274,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "暑いのでさらに暑苦しい絵を… https://t.co/wN7EJ04fzf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2071930940834635816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 175,
+          "like_count": 6103,
+          "listed_count": 1,
+          "media_count": 349,
+          "tweet_count": 2408
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-31T09:00:06.000Z",
+        "description": "絵のお仕事募集中です(2次創作/🔞不可)✉️kainalu0708@gmail.com作品の無断使用、転載不可。デザインTシャツ販売https://t.co/WL01yipICU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ttrinity.jp/shop/beast78/",
+                "end": 89,
+                "expanded_url": "https://www.ttrinity.jp/shop/beast78/",
+                "start": 66,
+                "url": "https://t.co/WL01yipICU"
+              }
+            ]
+          }
+        },
+        "id": "1509455137684656131",
+        "location": "ルイーダの酒場",
+        "name": "たけだ ゆうこ",
+        "pinned_tweet_id": "2021909099378848082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660073646839447552/9Lh4B7Qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14606,
+          "following_count": 994,
+          "like_count": 40366,
+          "listed_count": 157,
+          "media_count": 709,
+          "tweet_count": 19907
+        },
+        "url": "",
+        "username": "ZLgPRMFlGeGQDsy",
+        "verified": true
+      }
+    ]
+  }
+}

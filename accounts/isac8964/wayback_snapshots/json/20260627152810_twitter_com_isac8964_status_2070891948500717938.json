@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2070829138471276959",
+    "created_at": "2026-06-27T15:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070891948500717938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1844356739539533829",
+          "start": 0,
+          "username": "xccpma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070891948500717938",
+    "in_reply_to_user_id": "1844356739539533829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070829138471276959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xccpma 药监局能不能别把屎端桌上来，抗组胺这种路边的蛆怎么都来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 607,
+        "media_key": "3_2070829131106021376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0QH34a8AAgptD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2070829138471276959",
+        "created_at": "2026-06-27T15:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070891948500717938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1844356739539533829",
+              "start": 0,
+              "username": "xccpma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070891948500717938",
+        "in_reply_to_user_id": "1844356739539533829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070829138471276959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xccpma 药监局能不能别把屎端桌上来，抗组胺这种路边的蛆怎么都来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070829131106021376"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2070829138471276959",
+        "created_at": "2026-06-27T11:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070829138471276959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3mR68k3QSq",
+              "end": 69,
+              "expanded_url": "https://x.com/xccpma/status/2070829138471276959/photo/1",
+              "media_key": "3_2070829131106021376",
+              "start": 46,
+              "url": "https://t.co/3mR68k3QSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070829138471276959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 5290,
+          "like_count": 77,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新药速报：加诺思®️多西拉敏片在国内上市，是第一代抗组胺药\n\n用于短期失眠，未列入管制目录 https://t.co/3mR68k3QSq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\napprove request randomly",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2005063407352119575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 147,
+          "like_count": 5735,
+          "listed_count": 1,
+          "media_count": 345,
+          "tweet_count": 2332
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 102,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

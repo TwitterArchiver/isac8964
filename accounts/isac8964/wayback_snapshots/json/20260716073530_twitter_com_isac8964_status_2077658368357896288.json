@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2077658368357896288",
+    "created_at": "2026-07-16T07:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T08:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077658368357896288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1997985969958699008",
+          "start": 3,
+          "username": "ZaneTuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077658368357896288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 160
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077399540123226314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZaneTuT: 有一大堆人互动的才叫朋友圈，我的应该叫孤儿圈，每天一个人自言自语还觉得自己老有意思了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2077658368357896288",
+        "created_at": "2026-07-16T07:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077658368357896288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1997985969958699008",
+              "start": 3,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077658368357896288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 160
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077399540123226314",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZaneTuT: 有一大堆人互动的才叫朋友圈，我的应该叫孤儿圈，每天一个人自言自语还觉得自己老有意思了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2077399540123226314",
+        "created_at": "2026-07-15T14:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077399540123226314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077399540123226314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 20790,
+          "like_count": 908,
+          "quote_count": 5,
+          "reply_count": 57,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "有一大堆人互动的才叫朋友圈，我的应该叫孤儿圈，每天一个人自言自语还觉得自己老有意思了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2071930940834635816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 175,
+          "like_count": 6140,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 2417
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 52,
+                "start": 44,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2075472000680911094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8046,
+          "following_count": 275,
+          "like_count": 6120,
+          "listed_count": 4,
+          "media_count": 37,
+          "tweet_count": 2628
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      }
+    ]
+  }
+}

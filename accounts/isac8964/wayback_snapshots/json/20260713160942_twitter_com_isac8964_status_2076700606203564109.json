@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2076700606203564109",
+    "created_at": "2026-07-13T16:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076700606203564109"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/senshi_real/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/senshi_real/status/2076084628201365797",
+          "start": 6,
+          "url": "https://t.co/ePTYmJabcp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076700606203564109",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076084628201365797",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "nigga https://t.co/ePTYmJabcp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 980,
+        "media_key": "3_2076083639578726401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-7EhUXEAE0eFp.jpg",
+        "width": 653
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2076083662978785280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-7F4fXoAAyeZz.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2076083680926109696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-7G7WWEAAGTS5.jpg",
+        "width": 1200
+      },
+      {
+        "height": 736,
+        "media_key": "3_2076083710579929090",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-7Ip0XcAI4bHJ.png",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2076700606203564109",
+        "created_at": "2026-07-13T16:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076700606203564109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/senshi_real/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/senshi_real/status/2076084628201365797",
+              "start": 6,
+              "url": "https://t.co/ePTYmJabcp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076700606203564109",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076084628201365797",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "nigga https://t.co/ePTYmJabcp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076083639578726401",
+            "3_2076083662978785280",
+            "3_2076083680926109696",
+            "3_2076083710579929090"
+          ]
+        },
+        "author_id": "1671938049331146753",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076084628201365797",
+        "created_at": "2026-07-11T23:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T00:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076084628201365797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XoO6FKqs5D",
+              "end": 65,
+              "expanded_url": "https://x.com/senshi_real/status/2076084628201365797/photo/1",
+              "media_key": "3_2076083639578726401",
+              "start": 42,
+              "url": "https://t.co/XoO6FKqs5D"
+            },
+            {
+              "display_url": "pic.x.com/XoO6FKqs5D",
+              "end": 65,
+              "expanded_url": "https://x.com/senshi_real/status/2076084628201365797/photo/1",
+              "media_key": "3_2076083662978785280",
+              "start": 42,
+              "url": "https://t.co/XoO6FKqs5D"
+            },
+            {
+              "display_url": "pic.x.com/XoO6FKqs5D",
+              "end": 65,
+              "expanded_url": "https://x.com/senshi_real/status/2076084628201365797/photo/1",
+              "media_key": "3_2076083680926109696",
+              "start": 42,
+              "url": "https://t.co/XoO6FKqs5D"
+            },
+            {
+              "display_url": "pic.x.com/XoO6FKqs5D",
+              "end": 65,
+              "expanded_url": "https://x.com/senshi_real/status/2076084628201365797/photo/1",
+              "media_key": "3_2076083710579929090",
+              "start": 42,
+              "url": "https://t.co/XoO6FKqs5D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076084628201365797",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3758,
+          "impression_count": 14140072,
+          "like_count": 18417,
+          "quote_count": 6955,
+          "reply_count": 5590,
+          "retweet_count": 426
+        },
+        "reply_settings": "everyone",
+        "text": "defina esse tipo de homem em UMA palavra: https://t.co/XoO6FKqs5D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2071930940834635816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 173,
+          "like_count": 6076,
+          "listed_count": 1,
+          "media_count": 349,
+          "tweet_count": 2405
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-22T17:48:02.000Z",
+        "description": "olá sou amigável, sigam-me os bons!!  || memes todos os dias || conta secundária 👉 \n@zSenshi_sama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 84,
+                "username": "zSenshi_sama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lucas.senshi",
+                "end": 23,
+                "expanded_url": "http://instagram.com/lucas.senshi",
+                "start": 0,
+                "url": "https://t.co/gqBwZ2K5Zf"
+              }
+            ]
+          }
+        },
+        "id": "1671938049331146753",
+        "location": "atrás de você",
+        "name": "senshi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844879160637825028/OUyl9SO0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133263,
+          "following_count": 27377,
+          "like_count": 241309,
+          "listed_count": 95,
+          "media_count": 9668,
+          "tweet_count": 110366
+        },
+        "url": "https://t.co/gqBwZ2K5Zf",
+        "username": "senshi_real",
+        "verified": true
+      }
+    ]
+  }
+}

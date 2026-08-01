@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073213031455281152"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "conversation_id": "2073213043308470496",
+    "created_at": "2026-07-04T01:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T02:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073213043308470496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FlP4Oo7vs4",
+          "end": 23,
+          "expanded_url": "https://x.com/isac8964/status/2073213043308470496/photo/1",
+          "media_key": "3_2073213031455281152",
+          "start": 0,
+          "url": "https://t.co/FlP4Oo7vs4"
+        },
+        {
+          "display_url": "x.com/jov0j/status/2…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/jov0j/status/2072481488634085812",
+          "start": 24,
+          "url": "https://t.co/aKROonOOfy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073213043308470496",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072481488634085812",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "https://t.co/FlP4Oo7vs4 https://t.co/aKROonOOfy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1012,
+        "media_key": "3_2073213031455281152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWIRIuaUAAlASA.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073213031455281152"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "conversation_id": "2073213043308470496",
+        "created_at": "2026-07-04T01:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073213043308470496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FlP4Oo7vs4",
+              "end": 23,
+              "expanded_url": "https://x.com/isac8964/status/2073213043308470496/photo/1",
+              "media_key": "3_2073213031455281152",
+              "start": 0,
+              "url": "https://t.co/FlP4Oo7vs4"
+            },
+            {
+              "display_url": "x.com/jov0j/status/2…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/jov0j/status/2072481488634085812",
+              "start": 24,
+              "url": "https://t.co/aKROonOOfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073213043308470496",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072481488634085812",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "https://t.co/FlP4Oo7vs4 https://t.co/aKROonOOfy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "761721678929932288",
+        "conversation_id": "2072481488634085812",
+        "created_at": "2026-07-02T00:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T01:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072481488634085812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072481488634085812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 18047,
+          "like_count": 51,
+          "quote_count": 19,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "看到过女权必须支持跨性别的言论\n真是搞笑 搞女权就是不想当妈啊 没有支持其他主义的义务\n跨性别挤占女性空间的时候没想过女权 男同代孕的时候没想过女权\n我认为反过来 男跨女应该支持女权 既然心理性别为女为女性说话不是应该的吗\n大部分跨性别女都是异装癖男人罢了 扮演社会认为的女性样子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\n从未想说服任何一个人，我只是在说自己想说的东西",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2005063407352119575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 164,
+          "like_count": 5823,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 2365
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-06T00:32:55.000Z",
+        "description": "私人推丨拍色图是爱好丨自恋大王丨屁话多丨不定期删推丨别问坐标丨喜欢帅哥丨防走失@carnival_gazi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "carnival_gazi"
+              }
+            ]
+          }
+        },
+        "id": "761721678929932288",
+        "location": "🚪",
+        "name": "对不起我这就从你老公身上下来",
+        "pinned_tweet_id": "2055828342327378062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022935070647160838/jVxFbcYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23464,
+          "following_count": 94,
+          "like_count": 9038,
+          "listed_count": 61,
+          "media_count": 1047,
+          "tweet_count": 5407
+        },
+        "url": "",
+        "username": "JOV0J",
+        "verified": false
+      }
+    ]
+  }
+}

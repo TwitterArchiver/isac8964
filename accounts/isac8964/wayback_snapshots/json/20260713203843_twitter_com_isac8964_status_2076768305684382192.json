@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2076614793277112567",
+    "created_at": "2026-07-13T20:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T21:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076768305684382192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "114382613",
+          "start": 0,
+          "username": "PrettiestBitch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076768305684382192",
+    "in_reply_to_user_id": "114382613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076614793277112567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PrettiestBitch 姐妹看到这个我想死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2076614793277112567",
+        "created_at": "2026-07-13T20:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T21:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076768305684382192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "114382613",
+              "start": 0,
+              "username": "PrettiestBitch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076768305684382192",
+        "in_reply_to_user_id": "114382613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076614793277112567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PrettiestBitch 姐妹看到这个我想死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "114382613",
+        "conversation_id": "2076614793277112567",
+        "created_at": "2026-07-13T10:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076614793277112567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/honeyjiushini/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/honeyjiushini/status/2076537354618327433",
+              "start": 5,
+              "url": "https://t.co/OsLv0vPpEk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076614793277112567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4356,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076537354618327433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们谁， https://t.co/OsLv0vPpEk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2071930940834635816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 173,
+          "like_count": 6084,
+          "listed_count": 1,
+          "media_count": 349,
+          "tweet_count": 2405
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2010-02-15T06:33:21.000Z",
+        "description": "在读研究生，外形优秀不缺得吃，已经对正常性生活感到腻味，追08年混血女高未果，反而自我洗脑成为她和对象的贡畜锁奴，在这里记录我的沦陷过程",
+        "id": "114382613",
+        "name": "好了大家尊重女性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076195405902249985/U6OHHhdo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 151,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1302
+        },
+        "url": "",
+        "username": "PrettiestBitch",
+        "verified": false
+      }
+    ]
+  }
+}

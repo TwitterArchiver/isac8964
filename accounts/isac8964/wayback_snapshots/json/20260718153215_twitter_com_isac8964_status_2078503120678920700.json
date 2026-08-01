@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077761487146250240"
+      ],
+      "media_source_tweet_id": [
+        "2077897315730247868"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "conversation_id": "2078503120678920700",
+    "created_at": "2026-07-18T15:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078503120678920700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841931514369445888",
+          "start": 3,
+          "username": "Huanusa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sFLX65bd62",
+          "end": 69,
+          "expanded_url": "https://x.com/Huanusa/status/2077897315730247868/video/1",
+          "media_key": "13_2077761487146250240",
+          "start": 46,
+          "url": "https://t.co/sFLX65bd62"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078503120678920700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 595
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077897315730247868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Huanusa: 香港黑警对一个12岁的单薄小女孩下手的情景\n很多事情真的不能遗忘 https://t.co/sFLX65bd62"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18622,
+        "height": 352,
+        "media_key": "13_2077761487146250240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077761487146250240/img/V4RUmZdfuD8dEq35.jpg",
+        "public_metrics": {
+          "view_count": 489814
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077761487146250240/vid/avc1/490x270/s2lg-R5vt7PG8V4N.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077761487146250240/vid/avc1/640x352/bL1A-nbYaNHRr_rR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077761487146250240/pl/IoaMzpV71HXA5qF-.m3u8?v=cfc"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077761487146250240"
+          ]
+        },
+        "author_id": "1841931514369445888",
+        "conversation_id": "2077897315730247868",
+        "created_at": "2026-07-16T23:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T00:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077897315730247868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sFLX65bd62",
+              "end": 56,
+              "expanded_url": "https://x.com/Huanusa/status/2077897315730247868/video/1",
+              "media_key": "13_2077761487146250240",
+              "start": 33,
+              "url": "https://t.co/sFLX65bd62"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077897315730247868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 494,
+          "impression_count": 883887,
+          "like_count": 3898,
+          "quote_count": 22,
+          "reply_count": 395,
+          "retweet_count": 595
+        },
+        "reply_settings": "everyone",
+        "text": "香港黑警对一个12岁的单薄小女孩下手的情景\n很多事情真的不能遗忘 https://t.co/sFLX65bd62"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077761487146250240"
+          ],
+          "media_source_tweet_id": [
+            "2077897315730247868"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "conversation_id": "2078503120678920700",
+        "created_at": "2026-07-18T15:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078503120678920700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841931514369445888",
+              "start": 3,
+              "username": "Huanusa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sFLX65bd62",
+              "end": 69,
+              "expanded_url": "https://x.com/Huanusa/status/2077897315730247868/video/1",
+              "media_key": "13_2077761487146250240",
+              "start": 46,
+              "url": "https://t.co/sFLX65bd62"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078503120678920700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 595
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077897315730247868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Huanusa: 香港黑警对一个12岁的单薄小女孩下手的情景\n很多事情真的不能遗忘 https://t.co/sFLX65bd62"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2071930940834635816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 178,
+          "like_count": 6185,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 2431
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-03T20:01:18.000Z",
+        "description": "🥇解密時代機遇🥇分享硬核資訊🥇\n－A I 時代－不拼能力－只看選擇－\n—私聊-僅限商務合作-頻道訂閱者—\n\n免責聲明：\n工具僅供學習測試合法用途\n預言純娛樂，不代表頻道觀點\n所有內容均不構成任何形式的建議",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ganjingworld.com/@Huanusa",
+                "end": 23,
+                "expanded_url": "https://www.ganjingworld.com/@Huanusa",
+                "start": 0,
+                "url": "https://t.co/HiN1K3SXhe"
+              }
+            ]
+          }
+        },
+        "id": "1841931514369445888",
+        "location": "侵權請聯繫火速刪除",
+        "name": "Huan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068734349755682816/-hPrlZUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52926,
+          "following_count": 66,
+          "like_count": 5529,
+          "listed_count": 267,
+          "media_count": 3446,
+          "tweet_count": 6436
+        },
+        "url": "https://t.co/HiN1K3SXhe",
+        "username": "Huanusa",
+        "verified": true
+      }
+    ]
+  }
+}

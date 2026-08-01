@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081044828159111168"
+      ],
+      "media_source_tweet_id": [
+        "2081512889630794068"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "conversation_id": "2081750689647063515",
+    "created_at": "2026-07-27T14:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081750689647063515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2033938190894321664",
+          "start": 3,
+          "username": "sillywhimsymeme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qzK5jufzub",
+          "end": 44,
+          "expanded_url": "https://x.com/sillywhimsymeme/status/2081512889630794068/video/1",
+          "media_key": "13_2081044828159111168",
+          "start": 21,
+          "url": "https://t.co/qzK5jufzub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081750689647063515",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1269
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081512889630794068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sillywhimsymeme: https://t.co/qzK5jufzub"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12066,
+        "height": 1280,
+        "media_key": "13_2081044828159111168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081044828159111168/img/elbqig_As8An8Y0d.jpg",
+        "public_metrics": {
+          "view_count": 40459
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081044828159111168/vid/avc1/320x568/qh5lmnFqZaJcbZPY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081044828159111168/vid/avc1/480x852/LrYwkCyS4qKfugp2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081044828159111168/vid/avc1/720x1280/XAUvxtRJHOriO18p.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081044828159111168/pl/V3kkI7_cX-Fh-o8G.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081044828159111168"
+          ]
+        },
+        "author_id": "2033938190894321664",
+        "conversation_id": "2081512889630794068",
+        "created_at": "2026-07-26T22:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T23:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081512889630794068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qzK5jufzub",
+              "end": 23,
+              "expanded_url": "https://x.com/sillywhimsymeme/status/2081512889630794068/video/1",
+              "media_key": "13_2081044828159111168",
+              "start": 0,
+              "url": "https://t.co/qzK5jufzub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081512889630794068",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 432,
+          "impression_count": 97226,
+          "like_count": 9565,
+          "quote_count": 35,
+          "reply_count": 11,
+          "retweet_count": 1269
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qzK5jufzub"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081044828159111168"
+          ],
+          "media_source_tweet_id": [
+            "2081512889630794068"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "conversation_id": "2081750689647063515",
+        "created_at": "2026-07-27T14:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081750689647063515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2033938190894321664",
+              "start": 3,
+              "username": "sillywhimsymeme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qzK5jufzub",
+              "end": 44,
+              "expanded_url": "https://x.com/sillywhimsymeme/status/2081512889630794068/video/1",
+              "media_key": "13_2081044828159111168",
+              "start": 21,
+              "url": "https://t.co/qzK5jufzub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081750689647063515",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1269
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081512889630794068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sillywhimsymeme: https://t.co/qzK5jufzub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 184,
+          "like_count": 6466,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 2487
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-17T16:07:22.000Z",
+        "description": "the horrors persist yet I remain silly",
+        "id": "2033938190894321664",
+        "location": "follow and turn on notifs :D",
+        "name": "silly and whimsy memes 🍭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076693435973562368/qPVDT55r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12494,
+          "following_count": 9158,
+          "like_count": 7859,
+          "listed_count": 7,
+          "media_count": 1478,
+          "tweet_count": 1790
+        },
+        "url": "",
+        "username": "sillywhimsymeme",
+        "verified": true
+      }
+    ]
+  }
+}

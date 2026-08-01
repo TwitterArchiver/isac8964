@@ -1,0 +1,113 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2074408762300063864",
+    "created_at": "2026-07-07T08:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074408762300063864"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074408762300063864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "很想回去上学的时候试试j，但是左逼不喜欢大麻味而且我要么住宿舍要么住酒店，，想试试快速上劲额。或者下次我放秋假去租套带阳台的house品鉴一下就希望和我住一起的同学或者左逼别打死我就行额"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2074408762300063864",
+        "created_at": "2026-07-07T08:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074408762300063864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074408762300063864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "很想回去上学的时候试试j，但是左逼不喜欢大麻味而且我要么住宿舍要么住酒店，，想试试快速上劲额。或者下次我放秋假去租套带阳台的house品鉴一下就希望和我住一起的同学或者左逼别打死我就行额"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\ncis-heterosexual lgbt-phobic gtfo",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2005063407352119575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 170,
+          "like_count": 5921,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 2376
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      }
+    ]
+  }
+}

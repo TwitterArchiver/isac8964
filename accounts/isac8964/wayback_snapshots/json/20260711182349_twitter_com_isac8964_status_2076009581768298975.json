@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2076009581768298975",
+    "created_at": "2026-07-11T18:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T19:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076009581768298975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1701474166392905729",
+          "start": 3,
+          "username": "NanaNana_os"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076009581768298975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075867109045989665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NanaNana_os: ADHD的激越/易怒通常是frustrative non-reward，挫折性非奖赏（就是本来觉得要被奖励但是没发生）\nADHD除了一般而言的两种典型症状（注意力集中困难，多动）还有一系列症状比如不耐挫，等待困难，情绪恢复慢，打断后烦躁等等，而…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2076009581768298975",
+        "created_at": "2026-07-11T18:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076009581768298975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1701474166392905729",
+              "start": 3,
+              "username": "NanaNana_os"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076009581768298975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075867109045989665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NanaNana_os: ADHD的激越/易怒通常是frustrative non-reward，挫折性非奖赏（就是本来觉得要被奖励但是没发生）\nADHD除了一般而言的两种典型症状（注意力集中困难，多动）还有一系列症状比如不耐挫，等待困难，情绪恢复慢，打断后烦躁等等，而…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701474166392905729",
+        "conversation_id": "2075867109045989665",
+        "created_at": "2026-07-11T08:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075867109045989665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075867109045989665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "ADHD的激越/易怒通常是frustrative non-reward，挫折性非奖赏（就是本来觉得要被奖励但是没发生）\nADHD除了一般而言的两种典型症状（注意力集中困难，多动）还有一系列症状比如不耐挫，等待困难，情绪恢复慢，打断后烦躁等等，而这些很可能都和“挫折性非奖赏”有关联，并且ADHD相比要更容易触发一些（x\n而且 在动物身上也都有类似的机制...... 最近有几个实验室发了相关的论文（毕竟做实验方便w）\n\n然后也许通过这个机制 可以研究出一些可以让ADHD减少学习痛苦的行为/药物疗法...?或者说很多关于ADHD的工具其实就是建立在这个基础上的（？\n比如把一块任务/时间切的特别碎 让每一个反馈都很小很可以确认很“不容易出错”......番茄种也许对于adhd还是太僵硬了一点\n以及我怀疑可乐定是降低ADHD激越以及这种反应来增加效率的 嗯 α2A 激动剂"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1064,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "ADHD的激越/易怒通常是frustrative non-reward，挫折性非奖赏（就是本来觉得要被奖励但是没发生）\nADHD除了一般而言的两种典型症状（注意力集中困难，多动）还有一系列症状比如不耐挫，等待困难，情绪恢复慢，打断后烦躁等等，而这些很可能都和“挫折性非奖赏”有关联，并且ADHD相比要更容易触发一些（x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2071930940834635816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 172,
+          "like_count": 6032,
+          "listed_count": 1,
+          "media_count": 346,
+          "tweet_count": 2393
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-12T05:54:01.000Z",
+        "description": "enby｜🎐@yuwilmeaning｜❤️‍🩹@_sharkee1024 ｜Sensing - BME-Neuroimaging｜Beijing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "yuwilmeaning"
+              },
+              {
+                "end": 37,
+                "start": 24,
+                "username": "_sharkee1024"
+              }
+            ]
+          }
+        },
+        "id": "1701474166392905729",
+        "location": "DLPFC",
+        "name": "7Na7Na",
+        "pinned_tweet_id": "2072350960362606902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947780376044425216/KXTmmUpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 735,
+          "like_count": 29625,
+          "listed_count": 1,
+          "media_count": 455,
+          "tweet_count": 3726
+        },
+        "url": "",
+        "username": "NanaNana_os",
+        "verified": true
+      }
+    ]
+  }
+}

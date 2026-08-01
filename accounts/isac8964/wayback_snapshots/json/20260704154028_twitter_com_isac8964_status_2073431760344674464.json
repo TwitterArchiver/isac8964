@@ -1,0 +1,113 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2073431760344674464",
+    "created_at": "2026-07-04T15:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T16:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073431760344674464"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073431760344674464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "对于社交中的一些节点太过于迟钝，我需要清晰明确的我的定位，要是社交像tomodachi life里的关系网格就好了，。完全不知道我和任何一个人到底是什么样的关系。不限于我与任何一个人，我无法定义和我做过小组作业的同学、认识很多年的网友、甚至有过亲密互动的人到底是咋样的，我不知道。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2073431760344674464",
+        "created_at": "2026-07-04T15:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073431760344674464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073431760344674464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "对于社交中的一些节点太过于迟钝，我需要清晰明确的我的定位，要是社交像tomodachi life里的关系网格就好了，。完全不知道我和任何一个人到底是什么样的关系。不限于我与任何一个人，我无法定义和我做过小组作业的同学、认识很多年的网友、甚至有过亲密互动的人到底是咋样的，我不知道。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\ncis-heterosexual lgbt-phobic gtfo",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2005063407352119575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 166,
+          "like_count": 5843,
+          "listed_count": 1,
+          "media_count": 349,
+          "tweet_count": 2365
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      }
+    ]
+  }
+}

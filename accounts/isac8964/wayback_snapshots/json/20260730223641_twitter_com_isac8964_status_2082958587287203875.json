@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2082958587287203875",
+    "created_at": "2026-07-30T22:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T23:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082958587287203875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1986612581428334592",
+          "start": 3,
+          "username": "TheRealDoII"
+        },
+        {
+          "end": 32,
+          "id": "1031293757759610880",
+          "start": 17,
+          "username": "TheJobfather__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082958587287203875",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082823356659695972",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheRealDoII: @TheJobfather__ \"It worked right\"\n\"This is genius\"\n\"This ate\"\n\nChildren were raped, yet people are treating it like a joke…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 126,
+        "media_key": "16_2082823349055463424",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HOeszPpXIAAdyeA.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HOeszPpXIAAdyeA.mp4"
+          }
+        ],
+        "width": 150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2082958587287203875",
+        "created_at": "2026-07-30T22:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T23:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082958587287203875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1986612581428334592",
+              "start": 3,
+              "username": "TheRealDoII"
+            },
+            {
+              "end": 32,
+              "id": "1031293757759610880",
+              "start": 17,
+              "username": "TheJobfather__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082958587287203875",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082823356659695972",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheRealDoII: @TheJobfather__ \"It worked right\"\n\"This is genius\"\n\"This ate\"\n\nChildren were raped, yet people are treating it like a joke…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2082823349055463424"
+          ]
+        },
+        "author_id": "1986612581428334592",
+        "conversation_id": "2082663471288660237",
+        "created_at": "2026-07-30T13:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082823356659695972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1031293757759610880",
+              "start": 0,
+              "username": "TheJobfather__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rC1TKpN2tj",
+              "end": 237,
+              "expanded_url": "https://x.com/TheRealDoII/status/2082823356659695972/photo/1",
+              "media_key": "16_2082823349055463424",
+              "start": 214,
+              "url": "https://t.co/rC1TKpN2tj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082823356659695972",
+        "in_reply_to_user_id": "1031293757759610880",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 58804,
+          "like_count": 2255,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082663471288660237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheJobfather__ \"It worked right\"\n\"This is genius\"\n\"This ate\"\n\nChildren were raped, yet people are treating it like a joke. That's exactly why they weren't afraid to release those files without making any arrests. https://t.co/rC1TKpN2tj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 188,
+          "like_count": 6530,
+          "listed_count": 1,
+          "media_count": 366,
+          "tweet_count": 2510
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-07T01:52:20.000Z",
+        "description": "what are u crying for? everything's going to be ok? \n-scorpios are terrible people \n-Respect Olandria",
+        "id": "1986612581428334592",
+        "name": "the doll",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019250596696453120/IM2ODb93_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 55,
+          "like_count": 85519,
+          "listed_count": 0,
+          "media_count": 643,
+          "tweet_count": 8911
+        },
+        "url": "",
+        "username": "TheRealDoII",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-19T21:36:07.000Z",
+        "description": "Career Coach & Technical Recruiter | Rootin' For Everybody Black | Founder @JupiterHR_ Book a chat for your career with me: https://t.co/EhkrezyNTN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "JupiterHR_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "calendly.com/jupiterhr",
+                "end": 147,
+                "expanded_url": "https://calendly.com/jupiterhr",
+                "start": 124,
+                "url": "https://t.co/EhkrezyNTN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Calendly.com/jupiterhr",
+                "end": 23,
+                "expanded_url": "http://Calendly.com/jupiterhr",
+                "start": 0,
+                "url": "https://t.co/RXe861wsIE"
+              }
+            ]
+          }
+        },
+        "id": "1031293757759610880",
+        "location": "Global",
+        "name": "The Jobfather ® 🇯🇲🇨🇦🇬🇧",
+        "pinned_tweet_id": "1490791416100003840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1246094561698615298/ML6dCmxV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88436,
+          "following_count": 6025,
+          "like_count": 115327,
+          "listed_count": 432,
+          "media_count": 8047,
+          "tweet_count": 102663
+        },
+        "url": "https://t.co/RXe861wsIE",
+        "username": "TheJobfather__",
+        "verified": true
+      }
+    ]
+  }
+}
