@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2083609014894542965",
+    "created_at": "2026-08-02T10:37:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083864837264900435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1948035186584670209",
+          "start": 0,
+          "username": "thctroche"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083864837264900435",
+    "in_reply_to_user_id": "1948035186584670209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083609014894542965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thctroche 这帮村逼能不能快点当肥料别在x上拉屎了，这一集好难看我真的不想看了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2083609014894542965",
+        "created_at": "2026-08-02T10:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083864837264900435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1948035186584670209",
+              "start": 0,
+              "username": "thctroche"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083864837264900435",
+        "in_reply_to_user_id": "1948035186584670209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083609014894542965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thctroche 这帮村逼能不能快点当肥料别在x上拉屎了，这一集好难看我真的不想看了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948035186584670209",
+        "conversation_id": "2083609014894542965",
+        "created_at": "2026-08-01T17:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083609014894542965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/innocentb1tch_…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/innocentb1tch_/status/2083436811217690764",
+              "start": 14,
+              "url": "https://t.co/yrIslnUNSV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083609014894542965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4602,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083436811217690764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "健全逼能老实待在墙内吃屎不 https://t.co/yrIslnUNSV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 192,
+          "like_count": 6657,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 2527
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-23T15:01:34.000Z",
+        "description": "我只是个爱情的骗徒，是爱情的小坏蛋。Queer poly pan 🍳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shianbey",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shianbey",
+                "start": 0,
+                "url": "https://t.co/Ml7rVTPl25"
+              }
+            ]
+          }
+        },
+        "id": "1948035186584670209",
+        "location": "Pennsylvania, USA",
+        "name": "大麻軟糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074265713225728000/_GkUdFFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 321,
+          "like_count": 3166,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 1976
+        },
+        "url": "https://t.co/Ml7rVTPl25",
+        "username": "thctroche",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2083848468788064484",
+    "created_at": "2026-08-02T13:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083914046328476135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947765957658873860",
+          "start": 0,
+          "username": "star27810544557"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083914046328476135",
+    "in_reply_to_user_id": "1947765957658873860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083911366906433780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@star27810544557 爱国者8964你的眼睛到底能看多远"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 943,
+        "media_key": "3_2083911360778510336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuKV3KaoAAEI81.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2083848468788064484",
+        "created_at": "2026-08-02T13:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083914046328476135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947765957658873860",
+              "start": 0,
+              "username": "star27810544557"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083914046328476135",
+        "in_reply_to_user_id": "1947765957658873860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083911366906433780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@star27810544557 爱国者8964你的眼睛到底能看多远"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083911360778510336"
+          ]
+        },
+        "author_id": "1947765957658873860",
+        "conversation_id": "2083848468788064484",
+        "created_at": "2026-08-02T13:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083911366906433780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1868121512710201344",
+              "start": 0,
+              "username": "isac8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3qgQef35TT",
+              "end": 33,
+              "expanded_url": "https://x.com/star27810544557/status/2083911366906433780/photo/1",
+              "media_key": "3_2083911360778510336",
+              "start": 10,
+              "url": "https://t.co/3qgQef35TT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083911366906433780",
+        "in_reply_to_user_id": "1868121512710201344",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083848468788064484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@isac8964 https://t.co/3qgQef35TT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2083889708598444406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 194,
+          "like_count": 6677,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 2532
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-22T21:09:43.000Z",
+        "description": "右 反共 友LGBTQ 如果立场不同请不要关注我 随时销号",
+        "id": "1947765957658873860",
+        "name": "爱国者8964(爱吃逼)",
+        "pinned_tweet_id": "2083571963524690387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082348386540503040/YBhcS1rX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 54,
+          "like_count": 1300,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 793
+        },
+        "url": "",
+        "username": "star27810544557",
+        "verified": false
+      }
+    ]
+  }
+}

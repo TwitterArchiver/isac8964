@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083943447946207232"
+      ],
+      "media_source_tweet_id": [
+        "2083943497589985536"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084266562706395323",
+    "created_at": "2026-08-03T13:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T14:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084266562706395323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1895126533381160960",
+          "start": 3,
+          "username": "diablo349667"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xp75F8kPTD",
+          "end": 82,
+          "expanded_url": "https://x.com/diablo349667/status/2083943497589985536/video/1",
+          "media_key": "13_2083943447946207232",
+          "start": 59,
+          "url": "https://t.co/Xp75F8kPTD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084266562706395323",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 657
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083943497589985536",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @diablo349667: someone watching this hard as a rock btw https://t.co/Xp75F8kPTD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 82500,
+        "height": 1024,
+        "media_key": "13_2083943447946207232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083943447946207232/img/PADuvQceR3myo9MH.jpg",
+        "public_metrics": {
+          "view_count": 407976
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083943447946207232/vid/avc1/320x568/3VvNRSS63oLz1LCI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083943447946207232/vid/avc1/480x852/1sa3KUVDmMy-FWLA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083943447946207232/vid/avc1/576x1024/Q9zxAZsCAy9lSTzV.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083943447946207232/pl/Si7mxouuhKMV_jgA.m3u8?tag=14&v=43b"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083943447946207232"
+          ]
+        },
+        "author_id": "1895126533381160960",
+        "conversation_id": "2083943497589985536",
+        "created_at": "2026-08-02T15:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083943497589985536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xp75F8kPTD",
+              "end": 64,
+              "expanded_url": "https://x.com/diablo349667/status/2083943497589985536/video/1",
+              "media_key": "13_2083943447946207232",
+              "start": 41,
+              "url": "https://t.co/Xp75F8kPTD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083943497589985536",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3452,
+          "impression_count": 538934,
+          "like_count": 10266,
+          "quote_count": 211,
+          "reply_count": 345,
+          "retweet_count": 657
+        },
+        "reply_settings": "everyone",
+        "text": "someone watching this hard as a rock btw https://t.co/Xp75F8kPTD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083943447946207232"
+          ],
+          "media_source_tweet_id": [
+            "2083943497589985536"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084266562706395323",
+        "created_at": "2026-08-03T13:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084266562706395323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1895126533381160960",
+              "start": 3,
+              "username": "diablo349667"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xp75F8kPTD",
+              "end": 82,
+              "expanded_url": "https://x.com/diablo349667/status/2083943497589985536/video/1",
+              "media_key": "13_2083943447946207232",
+              "start": 59,
+              "url": "https://t.co/Xp75F8kPTD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084266562706395323",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 657
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083943497589985536",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @diablo349667: someone watching this hard as a rock btw https://t.co/Xp75F8kPTD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/isac0219pek",
+                "end": 23,
+                "expanded_url": "https://ngl.link/isac0219pek",
+                "start": 0,
+                "url": "https://t.co/lkH48c7mxT"
+              }
+            ]
+          }
+        },
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2083889708598444406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 194,
+          "like_count": 6777,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 2559
+        },
+        "url": "https://t.co/lkH48c7mxT",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-27T14:59:23.000Z",
+        "description": "who up thinkin bout minesweeperererererererererertttetrezatyarytjtfscjq \n\nall/any - I AM FROM SCISSOR CITY\nshedtwt welcome as long as you dont try to promote it",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "itsmecoal.straw.page",
+                "end": 23,
+                "expanded_url": "http://itsmecoal.straw.page",
+                "start": 0,
+                "url": "https://t.co/TBLqOYxyTO"
+              }
+            ]
+          }
+        },
+        "id": "1895126533381160960",
+        "location": "trans town 🏳️‍🌈🏳️‍⚧️",
+        "name": "wuh luh wuh",
+        "pinned_tweet_id": "2043448569051357197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061576294324645888/Pi9FLVs9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 107,
+          "like_count": 90554,
+          "listed_count": 2,
+          "media_count": 1516,
+          "tweet_count": 42674
+        },
+        "url": "https://t.co/TBLqOYxyTO",
+        "username": "diablo349667",
+        "verified": false
+      }
+    ]
+  }
+}

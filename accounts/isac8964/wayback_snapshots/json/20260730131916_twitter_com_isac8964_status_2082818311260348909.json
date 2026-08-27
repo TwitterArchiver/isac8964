@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082471704752996353"
+      ],
+      "media_source_tweet_id": [
+        "2082471708112654500"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "conversation_id": "2082818311260348909",
+    "created_at": "2026-07-30T13:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082818311260348909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1270166714416640000",
+          "start": 3,
+          "username": "Fuyuanning"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sw1mO1Ffo6",
+          "end": 70,
+          "expanded_url": "https://x.com/Fuyuanning/status/2082471708112654500/photo/1",
+          "media_key": "3_2082471704752996353",
+          "start": 47,
+          "url": "https://t.co/Sw1mO1Ffo6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082818311260348909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082471708112654500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fuyuanning: 有的人看起来就像是会高强度在互联网上发表暴论并且和人对线（） https://t.co/Sw1mO1Ffo6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1509,
+        "media_key": "3_2082471704752996353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZs-2iawAE9fVS.jpg",
+        "width": 1896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082471704752996353"
+          ]
+        },
+        "author_id": "1270166714416640000",
+        "conversation_id": "2082471708112654500",
+        "created_at": "2026-07-29T14:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082471708112654500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sw1mO1Ffo6",
+              "end": 54,
+              "expanded_url": "https://x.com/Fuyuanning/status/2082471708112654500/photo/1",
+              "media_key": "3_2082471704752996353",
+              "start": 31,
+              "url": "https://t.co/Sw1mO1Ffo6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082471708112654500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1719,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "有的人看起来就像是会高强度在互联网上发表暴论并且和人对线（） https://t.co/Sw1mO1Ffo6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082471704752996353"
+          ],
+          "media_source_tweet_id": [
+            "2082471708112654500"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "conversation_id": "2082818311260348909",
+        "created_at": "2026-07-30T13:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082818311260348909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1270166714416640000",
+              "start": 3,
+              "username": "Fuyuanning"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sw1mO1Ffo6",
+              "end": 70,
+              "expanded_url": "https://x.com/Fuyuanning/status/2082471708112654500/photo/1",
+              "media_key": "3_2082471704752996353",
+              "start": 47,
+              "url": "https://t.co/Sw1mO1Ffo6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082818311260348909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082471708112654500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fuyuanning: 有的人看起来就像是会高强度在互联网上发表暴论并且和人对线（） https://t.co/Sw1mO1Ffo6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 184,
+          "like_count": 6511,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 2502
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-09T01:32:05.000Z",
+        "description": "哇袄！！！！！哇袄！！！！！哇袄！！！！！\n右位固定，风柏激推，卡多宏激推。",
+        "id": "1270166714416640000",
+        "location": "side 1",
+        "name": "AsDiC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458034608961093633/Fda3NBk-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 14,
+          "like_count": 419,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "Fuyuanning",
+        "verified": false
+      }
+    ]
+  }
+}

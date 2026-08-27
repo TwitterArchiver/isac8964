@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083912606600097792"
+      ],
+      "media_source_tweet_id": [
+        "2083912629815509448"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "conversation_id": "2083939683013189923",
+    "created_at": "2026-08-02T15:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083939683013189923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2029805493036929026",
+          "start": 3,
+          "username": "Popularrab84605"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eeOIubgf75",
+          "end": 44,
+          "expanded_url": "https://x.com/Popularrab84605/status/2083912629815509448/video/1",
+          "media_key": "13_2083912606600097792",
+          "start": 21,
+          "url": "https://t.co/eeOIubgf75"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083939683013189923",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083912629815509448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Popularrab84605: https://t.co/eeOIubgf75"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6613,
+        "height": 1024,
+        "media_key": "13_2083912606600097792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083912606600097792/img/qtCU9On7jhlX1UCZ.jpg",
+        "public_metrics": {
+          "view_count": 465
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083912606600097792/vid/avc1/320x568/DZ7FR-YiEOsiT9Y0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083912606600097792/vid/avc1/480x852/Fjp3J2pLLYzTHWVi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083912606600097792/vid/avc1/576x1024/Kf9yQaMCmknJYd87.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083912606600097792/pl/5ca5IIwlgfE_Z2sK.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083912606600097792"
+          ]
+        },
+        "author_id": "2029805493036929026",
+        "conversation_id": "2083912629815509448",
+        "created_at": "2026-08-02T13:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083912629815509448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eeOIubgf75",
+              "end": 23,
+              "expanded_url": "https://x.com/Popularrab84605/status/2083912629815509448/video/1",
+              "media_key": "13_2083912606600097792",
+              "start": 0,
+              "url": "https://t.co/eeOIubgf75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083912629815509448",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 1904,
+          "like_count": 110,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eeOIubgf75"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083912606600097792"
+          ],
+          "media_source_tweet_id": [
+            "2083912629815509448"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "conversation_id": "2083939683013189923",
+        "created_at": "2026-08-02T15:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083939683013189923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2029805493036929026",
+              "start": 3,
+              "username": "Popularrab84605"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eeOIubgf75",
+              "end": 44,
+              "expanded_url": "https://x.com/Popularrab84605/status/2083912629815509448/video/1",
+              "media_key": "13_2083912606600097792",
+              "start": 21,
+              "url": "https://t.co/eeOIubgf75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083939683013189923",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083912629815509448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Popularrab84605: https://t.co/eeOIubgf75"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2083889708598444406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 195,
+          "like_count": 6697,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 2538
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-06T06:25:31.000Z",
+        "description": "Rabbit Lover 🐰 Pet Videos \nDaily Cute Bunny Moments\nSmile with Animals ❤️\n🇦🇺🇦🇮🇧🇷🇨🇰🇬🇧🇮🇳🇱🇰",
+        "id": "2029805493036929026",
+        "name": "Popularrabbit",
+        "pinned_tweet_id": "2069233510922272955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029806349849350145/HKHrHYFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6688,
+          "following_count": 7500,
+          "like_count": 3071,
+          "listed_count": 10,
+          "media_count": 3604,
+          "tweet_count": 4642
+        },
+        "url": "",
+        "username": "Popularrab84605",
+        "verified": true
+      }
+    ]
+  }
+}

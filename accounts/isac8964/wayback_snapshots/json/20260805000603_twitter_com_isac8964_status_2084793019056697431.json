@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2084293753733538299",
+    "created_at": "2026-08-05T00:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T01:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084793019056697431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1545674323968806913",
+          "start": 0,
+          "username": "Fufufufuwuwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084793019056697431",
+    "in_reply_to_user_id": "1545674323968806913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084686066590818703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Fufufufuwuwu 啊啊啊啊啊啊啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2084686066590818703].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2084686066590818703",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2084686066590818703"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2084293753733538299",
+        "created_at": "2026-08-05T00:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T01:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084793019056697431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545674323968806913",
+              "start": 0,
+              "username": "Fufufufuwuwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084793019056697431",
+        "in_reply_to_user_id": "1545674323968806913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084686066590818703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Fufufufuwuwu 啊啊啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist \nI neither possess nor sell any substance I mentioned.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/isac0219pek",
+                "end": 23,
+                "expanded_url": "https://ngl.link/isac0219pek",
+                "start": 0,
+                "url": "https://t.co/lkH48c7mxT"
+              }
+            ]
+          }
+        },
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2083889708598444406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 201,
+          "like_count": 6898,
+          "listed_count": 1,
+          "media_count": 369,
+          "tweet_count": 2589
+        },
+        "url": "https://t.co/lkH48c7mxT",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-09T07:40:58.000Z",
+        "description": "我想考上深职院",
+        "id": "1545674323968806913",
+        "location": "深职院",
+        "name": "一滴6",
+        "pinned_tweet_id": "1957974733062098992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073071576237633537/TdWSuL49_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 102,
+          "like_count": 9471,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1907
+        },
+        "url": "",
+        "username": "Fufufufuwuwu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2007779603578785792"
+      ],
+      "media_source_tweet_id": [
+        "2007779613112684912"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "conversation_id": "2084627890918855047",
+    "created_at": "2026-08-04T13:09:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084627890918855047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1583431140215586816",
+          "start": 3,
+          "username": "younotd3adass"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4yFEKmsgz0",
+          "end": 42,
+          "expanded_url": "https://x.com/memeloverarsiv/status/2007779613112684912/video/1",
+          "media_key": "7_2007779603578785792",
+          "start": 19,
+          "url": "https://t.co/4yFEKmsgz0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084627890918855047",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 649
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084490412564025372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @younotd3adass: https://t.co/4yFEKmsgz0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10837,
+        "height": 320,
+        "media_key": "7_2007779603578785792",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2007779603578785792/pu/img/OaL85gt2jRAyyBFz.jpg",
+        "public_metrics": {
+          "view_count": 5037999
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007779603578785792/pu/vid/avc1/320x320/kO5cV9Rdiy6WUm5c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2007779603578785792/pu/pl/lYXDPZstWw8LnU56.m3u8?v=cfc"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2007779603578785792"
+          ]
+        },
+        "author_id": "1978473489301479424",
+        "conversation_id": "2007779613112684912",
+        "created_at": "2026-01-04T11:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T12:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007779613112684912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dvO0VNaNvx",
+              "end": 63,
+              "expanded_url": "https://x.com/memeloverarsiv/status/2007779613112684912/video/1",
+              "media_key": "7_2007779603578785792",
+              "start": 40,
+              "url": "https://t.co/dvO0VNaNvx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007779613112684912",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1232,
+          "impression_count": 1676829,
+          "like_count": 1151,
+          "quote_count": 52,
+          "reply_count": 41,
+          "retweet_count": 148
+        },
+        "reply_settings": "everyone",
+        "text": "minion minyon oyuncak sken adam gülüyor https://t.co/dvO0VNaNvx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2007779603578785792"
+          ],
+          "media_source_tweet_id": [
+            "2007779613112684912"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "conversation_id": "2084627890918855047",
+        "created_at": "2026-08-04T13:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084627890918855047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1583431140215586816",
+              "start": 3,
+              "username": "younotd3adass"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4yFEKmsgz0",
+              "end": 42,
+              "expanded_url": "https://x.com/memeloverarsiv/status/2007779613112684912/video/1",
+              "media_key": "7_2007779603578785792",
+              "start": 19,
+              "url": "https://t.co/4yFEKmsgz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084627890918855047",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 649
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084490412564025372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @younotd3adass: https://t.co/4yFEKmsgz0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2007779603578785792"
+          ],
+          "media_source_tweet_id": [
+            "2007779613112684912"
+          ]
+        },
+        "author_id": "1583431140215586816",
+        "conversation_id": "2084490412564025372",
+        "created_at": "2026-08-04T04:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084490412564025372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4yFEKmsgz0",
+              "end": 23,
+              "expanded_url": "https://x.com/memeloverarsiv/status/2007779613112684912/video/1",
+              "media_key": "7_2007779603578785792",
+              "start": 0,
+              "url": "https://t.co/4yFEKmsgz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084490412564025372",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2858,
+          "impression_count": 445406,
+          "like_count": 7284,
+          "quote_count": 46,
+          "reply_count": 64,
+          "retweet_count": 655
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4yFEKmsgz0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist \nI neither possess nor sell any substance I mentioned.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/isac0219pek",
+                "end": 23,
+                "expanded_url": "https://ngl.link/isac0219pek",
+                "start": 0,
+                "url": "https://t.co/lkH48c7mxT"
+              }
+            ]
+          }
+        },
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2083889708598444406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 200,
+          "like_count": 6902,
+          "listed_count": 1,
+          "media_count": 369,
+          "tweet_count": 2587
+        },
+        "url": "https://t.co/lkH48c7mxT",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-21T12:13:06.000Z",
+        "description": "L.O.A.T",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/yournotdeadass…",
+                "end": 23,
+                "expanded_url": "https://x.com/yournotdeadass?s=21",
+                "start": 0,
+                "url": "https://t.co/WUerrLV6em"
+              }
+            ]
+          }
+        },
+        "id": "1583431140215586816",
+        "location": "NYC",
+        "name": "🥄🥄🥄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861585699901734913/iQX9Kc-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2311,
+          "following_count": 611,
+          "like_count": 80584,
+          "listed_count": 2,
+          "media_count": 8821,
+          "tweet_count": 57870
+        },
+        "url": "https://t.co/WUerrLV6em",
+        "username": "younotd3adass",
+        "verified": false
+      }
+    ]
+  }
+}

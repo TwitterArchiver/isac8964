@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2083997277467672965",
+    "created_at": "2026-08-02T19:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T20:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083997277467672965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1529758562691346432",
+          "start": 3,
+          "username": "Bigcher41436077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083997277467672965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894434356510531687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bigcher41436077: 蝻界大乱在即，我和母亲深入探讨了女人建国的各种可能性，什么时机女人来摘桃，哪几个地方建国最好，建国后对外如何处理与蝻权国家的关系，对内如何避免“鉴激”式的政治运动，怎样才能让女国稳健地发展起来，带动更多蝻权国家的女人推翻蝻权统治…两个激…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2083997277467672965",
+        "created_at": "2026-08-02T19:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083997277467672965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1529758562691346432",
+              "start": 3,
+              "username": "Bigcher41436077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083997277467672965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894434356510531687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bigcher41436077: 蝻界大乱在即，我和母亲深入探讨了女人建国的各种可能性，什么时机女人来摘桃，哪几个地方建国最好，建国后对外如何处理与蝻权国家的关系，对内如何避免“鉴激”式的政治运动，怎样才能让女国稳健地发展起来，带动更多蝻权国家的女人推翻蝻权统治…两个激…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529758562691346432",
+        "conversation_id": "1894434356510531687",
+        "created_at": "2025-02-25T17:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T18:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894434356510531687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894434356510531687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 11276,
+          "like_count": 129,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "蝻界大乱在即，我和母亲深入探讨了女人建国的各种可能性，什么时机女人来摘桃，哪几个地方建国最好，建国后对外如何处理与蝻权国家的关系，对内如何避免“鉴激”式的政治运动，怎样才能让女国稳健地发展起来，带动更多蝻权国家的女人推翻蝻权统治…两个激女畅谈天下，好爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/isac0219pek",
+                "end": 23,
+                "expanded_url": "https://ngl.link/isac0219pek",
+                "start": 0,
+                "url": "https://t.co/lkH48c7mxT"
+              }
+            ]
+          }
+        },
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 196,
+          "like_count": 6729,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 2544
+        },
+        "url": "https://t.co/lkH48c7mxT",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-26T09:43:24.000Z",
+        "description": "strong",
+        "id": "1529758562691346432",
+        "name": "Bigcherry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535301957404876800/Z09H-zSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3368,
+          "following_count": 46,
+          "like_count": 889,
+          "listed_count": 13,
+          "media_count": 1,
+          "tweet_count": 854
+        },
+        "url": "",
+        "username": "Bigcher41436077",
+        "verified": false
+      }
+    ]
+  }
+}

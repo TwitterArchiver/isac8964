@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2084331346848301277",
+    "created_at": "2026-08-03T20:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T21:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084374706933944578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1947765957658873860",
+          "start": 0,
+          "username": "AGZlove8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084374706933944578",
+    "in_reply_to_user_id": "1947765957658873860",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084371258179993735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@AGZlove8964 可以可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2084331346848301277",
+        "created_at": "2026-08-03T20:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T21:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084374706933944578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1947765957658873860",
+              "start": 0,
+              "username": "AGZlove8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084374706933944578",
+        "in_reply_to_user_id": "1947765957658873860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084371258179993735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@AGZlove8964 可以可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947765957658873860",
+        "conversation_id": "2084331346848301277",
+        "created_at": "2026-08-03T20:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T21:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084371258179993735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1868121512710201344",
+              "start": 0,
+              "username": "isac8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084371258179993735",
+        "in_reply_to_user_id": "1868121512710201344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084331346848301277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@isac8964 我都是跑去瑞克买那种别的品牌的一次性电子烟，好像叫啥飞雾吧，挺好抽的，而且味道不会影响到别人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/isac0219pek",
+                "end": 23,
+                "expanded_url": "https://ngl.link/isac0219pek",
+                "start": 0,
+                "url": "https://t.co/lkH48c7mxT"
+              }
+            ]
+          }
+        },
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2083889708598444406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 197,
+          "like_count": 6850,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 2575
+        },
+        "url": "https://t.co/lkH48c7mxT",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-22T21:09:43.000Z",
+        "description": "右 反共 顺直勿扰 激男激女勿扰 友LGBTQIA 不看任何血腥暴力 如果政治立场不同请不要关注我",
+        "id": "1947765957658873860",
+        "name": "爱国者8964",
+        "pinned_tweet_id": "2084356884925178130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082348386540503040/YBhcS1rX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 57,
+          "like_count": 1441,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 837
+        },
+        "url": "",
+        "username": "AGZlove8964",
+        "verified": false
+      }
+    ]
+  }
+}

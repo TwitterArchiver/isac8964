@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2083971760542626106",
+    "created_at": "2026-08-02T17:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T18:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083971760542626106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dangerousfaggg…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/dangerousfaggg/status/2083688068398060026",
+          "start": 33,
+          "url": "https://t.co/EafkHaHbGT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083971760542626106",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083688068398060026",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "Avg group project teammate at hs https://t.co/EafkHaHbGT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 56679,
+        "height": 480,
+        "media_key": "13_2081851273301651457",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081851273301651457/img/tvwkZKWddZDU4g9f.jpg",
+        "public_metrics": {
+          "view_count": 158788
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081851273301651457/vid/avc1/320x320/dv9k_kI31iO_P1cC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081851273301651457/vid/avc1/480x480/AmPjgjiuZigAchY9.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081851273301651457/pl/OVrEeaieuY9bdbRk.m3u8?tag=14"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2083971760542626106",
+        "created_at": "2026-08-02T17:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T18:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083971760542626106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dangerousfaggg…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/dangerousfaggg/status/2083688068398060026",
+              "start": 33,
+              "url": "https://t.co/EafkHaHbGT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083971760542626106",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083688068398060026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "Avg group project teammate at hs https://t.co/EafkHaHbGT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081851273301651457"
+          ],
+          "media_source_tweet_id": [
+            "2081851311457223149"
+          ]
+        },
+        "author_id": "1940846926221791233",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083688068398060026",
+        "created_at": "2026-08-01T22:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T23:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083688068398060026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pLgn1kzWth",
+              "end": 63,
+              "expanded_url": "https://x.com/Rain_MakeFair2/status/2081851311457223149/video/1",
+              "media_key": "13_2081851273301651457",
+              "start": 40,
+              "url": "https://t.co/pLgn1kzWth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083688068398060026",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 3006,
+          "like_count": 101,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "Does watching this count as an attempt  https://t.co/pLgn1kzWth"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2083889708598444406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 196,
+          "like_count": 6709,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 2542
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-03T18:55:48.000Z",
+        "description": "petal by Ariana grande out now🌸💐🌺 \nNicki is a chop ho-\nDetour by Kim Petras out now!!\n@SLAYYYTER COME TO DUBLIN PLEASE\n#Joblessbitch💯\n🇮🇪🇮🇪🇮🇪",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 119,
+                "tag": "Joblessbitch"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 86,
+                "username": "SLAYYYTER"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@FizzyDuckss",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@FizzyDuckss",
+                "start": 0,
+                "url": "https://t.co/SNeHlRHyDv"
+              }
+            ]
+          }
+        },
+        "id": "1940846926221791233",
+        "location": "ES tour",
+        "name": "WOR$T FAGGOT IN HAMPSTEAD💋 ☼｡˚❀ * ꕤ",
+        "pinned_tweet_id": "2083039958407733353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082209103535878144/K6gK21y8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 603,
+          "like_count": 8560,
+          "listed_count": 1,
+          "media_count": 845,
+          "tweet_count": 6164
+        },
+        "url": "https://t.co/SNeHlRHyDv",
+        "username": "dangerousfaggg",
+        "verified": false
+      }
+    ]
+  }
+}

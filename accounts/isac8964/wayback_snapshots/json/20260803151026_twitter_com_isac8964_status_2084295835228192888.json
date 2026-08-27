@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1921101073785225216"
+      ],
+      "media_source_tweet_id": [
+        "1921101133449191723"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084295835228192888",
+    "created_at": "2026-08-03T15:10:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T16:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084295835228192888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1827155562032660480",
+          "start": 3,
+          "username": "kitsunecar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0hCIEzVZDi",
+          "end": 67,
+          "expanded_url": "https://x.com/luaunit01/status/1921101133449191723/video/1",
+          "media_key": "13_1921101073785225216",
+          "start": 44,
+          "url": "https://t.co/0hCIEzVZDi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084295835228192888",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2751
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084055667342532969",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kitsunecar: some yumeshippers out there https://t.co/0hCIEzVZDi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10984,
+        "height": 576,
+        "media_key": "13_1921101073785225216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1921101073785225216/img/U7HVZ1eF6oUIKeya.jpg",
+        "public_metrics": {
+          "view_count": 451429
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921101073785225216/vid/avc1/366x270/AqMuftnOSwQPeX8d.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921101073785225216/vid/avc1/488x360/_7520gdYv80L7r4I.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921101073785225216/vid/avc1/782x576/_fhsS64FRiGtwiJ8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1921101073785225216/pl/sbmZHgFbnBnyBBHP.m3u8?v=dce"
+          }
+        ],
+        "width": 782
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1921101073785225216"
+          ]
+        },
+        "author_id": "1889168504370397184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "1921101133449191723",
+        "created_at": "2025-05-10T07:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T08:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921101133449191723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wucbxOW5Fs",
+              "end": 121,
+              "expanded_url": "https://x.com/luaunit01/status/1921101133449191723/video/1",
+              "media_key": "13_1921101073785225216",
+              "start": 98,
+              "url": "https://t.co/wucbxOW5Fs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921101133449191723",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3548,
+          "impression_count": 714349,
+          "like_count": 32626,
+          "quote_count": 536,
+          "reply_count": 71,
+          "retweet_count": 4295
+        },
+        "reply_settings": "everyone",
+        "text": "How it feels to actually like usagi and not call him a fat slob who abuses chiikawa and hachiware https://t.co/wucbxOW5Fs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1921101073785225216"
+          ],
+          "media_source_tweet_id": [
+            "1921101133449191723"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084295835228192888",
+        "created_at": "2026-08-03T15:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084295835228192888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1827155562032660480",
+              "start": 3,
+              "username": "kitsunecar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hCIEzVZDi",
+              "end": 67,
+              "expanded_url": "https://x.com/luaunit01/status/1921101133449191723/video/1",
+              "media_key": "13_1921101073785225216",
+              "start": 44,
+              "url": "https://t.co/0hCIEzVZDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084295835228192888",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2751
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084055667342532969",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kitsunecar: some yumeshippers out there https://t.co/0hCIEzVZDi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1921101073785225216"
+          ],
+          "media_source_tweet_id": [
+            "1921101133449191723"
+          ]
+        },
+        "author_id": "1827155562032660480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084055667342532969",
+        "created_at": "2026-08-02T23:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T00:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084055667342532969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hCIEzVZDi",
+              "end": 51,
+              "expanded_url": "https://x.com/luaunit01/status/1921101133449191723/video/1",
+              "media_key": "13_1921101073785225216",
+              "start": 28,
+              "url": "https://t.co/0hCIEzVZDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084055667342532969",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2457,
+          "impression_count": 332686,
+          "like_count": 20641,
+          "quote_count": 587,
+          "reply_count": 118,
+          "retweet_count": 2751
+        },
+        "reply_settings": "everyone",
+        "text": "some yumeshippers out there https://t.co/0hCIEzVZDi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/isac0219pek",
+                "end": 23,
+                "expanded_url": "https://ngl.link/isac0219pek",
+                "start": 0,
+                "url": "https://t.co/lkH48c7mxT"
+              }
+            ]
+          }
+        },
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2083889708598444406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 196,
+          "like_count": 6814,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 2569
+        },
+        "url": "https://t.co/lkH48c7mxT",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-24T01:27:16.000Z",
+        "description": "itoshi rin's fav @corinthians stan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "corinthians"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rinrol.straw.page",
+                "end": 23,
+                "expanded_url": "https://rinrol.straw.page",
+                "start": 0,
+                "url": "https://t.co/FLdGtY6x0u"
+              }
+            ]
+          }
+        },
+        "id": "1827155562032660480",
+        "location": "🚫 proship dni - i am a minor",
+        "name": "🇧🇷 traffic car | rin's hawk ♡",
+        "pinned_tweet_id": "2075712664635080880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081566305971318784/pEUYueD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7875,
+          "following_count": 4652,
+          "like_count": 45257,
+          "listed_count": 65,
+          "media_count": 3848,
+          "tweet_count": 14012
+        },
+        "url": "https://t.co/FLdGtY6x0u",
+        "username": "kitsunecar",
+        "verified": false
+      }
+    ]
+  }
+}

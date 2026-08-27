@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2084625066411823156",
+    "created_at": "2026-08-04T13:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084625878848348501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2084201724345204736",
+          "start": 0,
+          "username": "shejumping8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084625878848348501",
+    "in_reply_to_user_id": "2084201724345204736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084625066411823156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shejumping8964 噢不😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9118,
+        "height": 1280,
+        "media_key": "13_2084625037936783361",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084625037936783361/img/YkHdyVhQ1aAczDzh.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084625037936783361/vid/avc1/320x696/B3WvjG3aLGDuCUiy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084625037936783361/vid/avc1/480x1044/E89NkOwcLBr9S7EC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084625037936783361/vid/avc1/588x1280/l-IQXCqYNw7DkKDV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084625037936783361/pl/IfhnhN2nXIxmXbE0.m3u8"
+          }
+        ],
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2084625066411823156",
+        "created_at": "2026-08-04T13:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084625878848348501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2084201724345204736",
+              "start": 0,
+              "username": "shejumping8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084625878848348501",
+        "in_reply_to_user_id": "2084201724345204736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084625066411823156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shejumping8964 噢不😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084625037936783361"
+          ]
+        },
+        "author_id": "2084201724345204736",
+        "conversation_id": "2084625066411823156",
+        "created_at": "2026-08-04T12:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084625066411823156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GihIsSaWna",
+              "end": 50,
+              "expanded_url": "https://x.com/shejumping8964/status/2084625066411823156/video/1",
+              "media_key": "13_2084625037936783361",
+              "start": 27,
+              "url": "https://t.co/GihIsSaWna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084625066411823156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我大号这是怎么了？为什么我点了开始它一直弹出重复的？ https://t.co/GihIsSaWna"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist \nI neither possess nor sell any substance I mentioned.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/isac0219pek",
+                "end": 23,
+                "expanded_url": "https://ngl.link/isac0219pek",
+                "start": 0,
+                "url": "https://t.co/lkH48c7mxT"
+              }
+            ]
+          }
+        },
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2083889708598444406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 200,
+          "like_count": 6899,
+          "listed_count": 1,
+          "media_count": 369,
+          "tweet_count": 2587
+        },
+        "url": "https://t.co/lkH48c7mxT",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2026-08-03T08:59:13.000Z",
+        "description": "我重生了 大号@AGZlove8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "AGZlove8964"
+              }
+            ]
+          }
+        },
+        "id": "2084201724345204736",
+        "location": "距离你0.1km",
+        "name": "艾果者8964",
+        "pinned_tweet_id": "2084206101420273945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202862796804097/8Kn5yIAv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 21,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "shejumping8964",
+        "verified": false
+      }
+    ]
+  }
+}

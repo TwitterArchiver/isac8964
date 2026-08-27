@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1704828020119523328"
+      ],
+      "media_source_tweet_id": [
+        "1704828041829216424"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2083858729334960254",
+    "created_at": "2026-08-02T10:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083858729334960254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3230284603",
+          "start": 3,
+          "username": "nire023"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sjOpQGnlVV",
+          "end": 63,
+          "expanded_url": "https://x.com/nire023/status/1704828041829216424/video/1",
+          "media_key": "7_1704828020119523328",
+          "start": 40,
+          "url": "https://t.co/sjOpQGnlVV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083858729334960254",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 233
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083538819782197288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nire023: 最初芯避けて食べてたのに結局丸呑みするとこほんとすき https://t.co/sjOpQGnlVV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3928,
+        "height": 492,
+        "media_key": "7_1704828020119523328",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1704828020119523328/pu/img/U7t8EgKWzDhLsMxy.jpg",
+        "public_metrics": {
+          "view_count": 166909
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1704828020119523328/pu/vid/avc1/342x270/6h2hPponQsaNLVd-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1704828020119523328/pu/vid/avc1/456x360/figfM9HykTeLMa-1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1704828020119523328/pu/vid/avc1/624x492/9d4Mq7M5GHyK9l8y.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1704828020119523328/pu/pl/m6hO8aU25__UbSaB.m3u8?tag=12"
+          }
+        ],
+        "width": 624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1704828020119523328"
+          ]
+        },
+        "author_id": "3230284603",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1320755235665526786",
+              "name": "Kirby"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1320755235665526786",
+              "name": "Kirby"
+            }
+          }
+        ],
+        "conversation_id": "1704828041829216424",
+        "created_at": "2023-09-21T12:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2023-09-21T13:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1704828041829216424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vsCvpwAwHU",
+              "end": 44,
+              "expanded_url": "https://x.com/nire023/status/1704828041829216424/video/1",
+              "media_key": "7_1704828020119523328",
+              "start": 21,
+              "url": "https://t.co/vsCvpwAwHU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1704828041829216424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 500846,
+          "like_count": 6664,
+          "quote_count": 56,
+          "reply_count": 13,
+          "retweet_count": 1148
+        },
+        "reply_settings": "everyone",
+        "text": "64カービィちゃんの豪快な食べっぷりすき https://t.co/vsCvpwAwHU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1704828020119523328"
+          ],
+          "media_source_tweet_id": [
+            "1704828041829216424"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083858729334960254",
+        "created_at": "2026-08-02T10:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083858729334960254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3230284603",
+              "start": 3,
+              "username": "nire023"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sjOpQGnlVV",
+              "end": 63,
+              "expanded_url": "https://x.com/nire023/status/1704828041829216424/video/1",
+              "media_key": "7_1704828020119523328",
+              "start": 40,
+              "url": "https://t.co/sjOpQGnlVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083858729334960254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 233
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083538819782197288",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nire023: 最初芯避けて食べてたのに結局丸呑みするとこほんとすき https://t.co/sjOpQGnlVV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1704828020119523328"
+          ],
+          "media_source_tweet_id": [
+            "1704828041829216424"
+          ]
+        },
+        "author_id": "3230284603",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083538819782197288",
+        "created_at": "2026-08-01T13:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083538819782197288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sjOpQGnlVV",
+              "end": 50,
+              "expanded_url": "https://x.com/nire023/status/1704828041829216424/video/1",
+              "media_key": "7_1704828020119523328",
+              "start": 27,
+              "url": "https://t.co/sjOpQGnlVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083538819782197288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 181,
+          "impression_count": 79244,
+          "like_count": 3768,
+          "quote_count": 13,
+          "reply_count": 3,
+          "retweet_count": 233
+        },
+        "reply_settings": "everyone",
+        "text": "最初芯避けて食べてたのに結局丸呑みするとこほんとすき https://t.co/sjOpQGnlVV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 192,
+          "like_count": 6650,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 2525
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2015-05-30T02:01:07.000Z",
+        "description": "人外好き🥚ヴィランにハマる性/ピクシブ🎨https://t.co/B6aaBP4lto インスタ https://t.co/Go41C1Rd9Q ブルスカ https://t.co/8X6UwIRSlf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/ni_re",
+                "end": 43,
+                "expanded_url": "https://pixiv.me/ni_re",
+                "start": 20,
+                "url": "https://t.co/B6aaBP4lto"
+              },
+              {
+                "display_url": "instagram.com/nirelm0",
+                "end": 72,
+                "expanded_url": "http://www.instagram.com/nirelm0",
+                "start": 49,
+                "url": "https://t.co/Go41C1Rd9Q"
+              },
+              {
+                "display_url": "bsky.app/profile/nire02…",
+                "end": 101,
+                "expanded_url": "https://bsky.app/profile/nire023.bsky.social",
+                "start": 78,
+                "url": "https://t.co/8X6UwIRSlf"
+              }
+            ]
+          }
+        },
+        "id": "3230284603",
+        "location": "カービィカフェSAPPORO建設予定地",
+        "name": "にれ",
+        "pinned_tweet_id": "2080694413156876789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642083478299877376/glcOkkWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58805,
+          "following_count": 99,
+          "like_count": 13139,
+          "listed_count": 239,
+          "media_count": 3952,
+          "tweet_count": 18237
+        },
+        "url": "",
+        "username": "nire023",
+        "verified": false
+      }
+    ]
+  }
+}

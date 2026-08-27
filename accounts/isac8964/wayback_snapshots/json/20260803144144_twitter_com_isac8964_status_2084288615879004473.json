@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083367136270106624"
+      ],
+      "media_source_tweet_id": [
+        "2084234322022908165"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "conversation_id": "2084288615879004473",
+    "created_at": "2026-08-03T14:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T15:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084288615879004473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1418758026912174082",
+          "start": 3,
+          "username": "ShouldHaveRabit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RA9CKiunjn",
+          "end": 44,
+          "expanded_url": "https://x.com/ShouldHaveRabit/status/2084234322022908165/video/1",
+          "media_key": "13_2083367136270106624",
+          "start": 21,
+          "url": "https://t.co/RA9CKiunjn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084288615879004473",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084234322022908165",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShouldHaveRabit: https://t.co/RA9CKiunjn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5733,
+        "height": 640,
+        "media_key": "13_2083367136270106624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083367136270106624/img/61OyqW_t_9YWRxba.jpg",
+        "public_metrics": {
+          "view_count": 3952
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083367136270106624/vid/avc1/320x320/-z2pEfN4rDaHnzvM.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083367136270106624/vid/avc1/540x540/DQDLuPyIE4jyT2qx.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083367136270106624/vid/avc1/640x640/IH2tkFvGh0UmxkeM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083367136270106624/pl/WQY7dNEVTtGD8mVm.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083367136270106624"
+          ]
+        },
+        "author_id": "1418758026912174082",
+        "conversation_id": "2084234322022908165",
+        "created_at": "2026-08-03T11:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084234322022908165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RA9CKiunjn",
+              "end": 23,
+              "expanded_url": "https://x.com/ShouldHaveRabit/status/2084234322022908165/video/1",
+              "media_key": "13_2083367136270106624",
+              "start": 0,
+              "url": "https://t.co/RA9CKiunjn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084234322022908165",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 15757,
+          "like_count": 590,
+          "quote_count": 24,
+          "reply_count": 2,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RA9CKiunjn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083367136270106624"
+          ],
+          "media_source_tweet_id": [
+            "2084234322022908165"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "conversation_id": "2084288615879004473",
+        "created_at": "2026-08-03T14:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084288615879004473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1418758026912174082",
+              "start": 3,
+              "username": "ShouldHaveRabit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RA9CKiunjn",
+              "end": 44,
+              "expanded_url": "https://x.com/ShouldHaveRabit/status/2084234322022908165/video/1",
+              "media_key": "13_2083367136270106624",
+              "start": 21,
+              "url": "https://t.co/RA9CKiunjn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084288615879004473",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084234322022908165",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShouldHaveRabit: https://t.co/RA9CKiunjn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/isac0219pek",
+                "end": 23,
+                "expanded_url": "https://ngl.link/isac0219pek",
+                "start": 0,
+                "url": "https://t.co/lkH48c7mxT"
+              }
+            ]
+          }
+        },
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2083889708598444406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 194,
+          "like_count": 6792,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 2565
+        },
+        "url": "https://t.co/lkH48c7mxT",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-24T02:21:00.000Z",
+        "description": "Follow us daily bunny content.🐰❤️ DM for Credit/Remove.",
+        "id": "1418758026912174082",
+        "location": "Turn on notifs 🔔",
+        "name": "Why you should have a rabbit",
+        "pinned_tweet_id": "2071875369167425893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776546440682307584/CqVPSy6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166081,
+          "following_count": 874,
+          "like_count": 18096,
+          "listed_count": 426,
+          "media_count": 19630,
+          "tweet_count": 22633
+        },
+        "url": "",
+        "username": "ShouldHaveRabit",
+        "verified": true
+      }
+    ]
+  }
+}

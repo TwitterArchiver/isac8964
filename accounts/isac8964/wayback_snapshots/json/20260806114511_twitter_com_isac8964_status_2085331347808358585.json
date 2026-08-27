@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Hair Care",
+          "id": "854761964874088448",
+          "name": "Hair care"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Conditioner",
+          "id": "854765599469076480",
+          "name": "Conditioner"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conditioner",
+          "id": "854765599469076480",
+          "name": "Conditioner"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Conditioner",
+          "id": "854765599469076480",
+          "name": "Conditioner"
+        }
+      }
+    ],
+    "conversation_id": "2085331347808358585",
+    "created_at": "2026-08-06T11:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T12:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085331347808358585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/grjffin/status…",
+          "end": 113,
+          "expanded_url": "https://twitter.com/grjffin/status/2085101837821100453",
+          "start": 90,
+          "url": "https://t.co/LV3K4eTcKu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085331347808358585",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085101837821100453",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "Well you can prob not distinguish between the hair removal cream and the conditioner then https://t.co/LV3K4eTcKu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1592,
+        "media_key": "3_2085101828165775360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO_FELxWsAAlXQ4.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1599,
+        "media_key": "3_2085101828329308160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO_FEMYWAAAL4hB.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1583,
+        "media_key": "3_2085101828539138049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO_FENKXwAETu15.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1789,
+        "media_key": "3_2085101828157431808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO_FELvXYAAKSoP.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hair Care",
+              "id": "854761964874088448",
+              "name": "Hair care"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Conditioner",
+              "id": "854765599469076480",
+              "name": "Conditioner"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conditioner",
+              "id": "854765599469076480",
+              "name": "Conditioner"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Conditioner",
+              "id": "854765599469076480",
+              "name": "Conditioner"
+            }
+          }
+        ],
+        "conversation_id": "2085331347808358585",
+        "created_at": "2026-08-06T11:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085331347808358585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/grjffin/status…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/grjffin/status/2085101837821100453",
+              "start": 90,
+              "url": "https://t.co/LV3K4eTcKu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085331347808358585",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085101837821100453",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "Well you can prob not distinguish between the hair removal cream and the conditioner then https://t.co/LV3K4eTcKu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085101828165775360",
+            "3_2085101828329308160",
+            "3_2085101828539138049",
+            "3_2085101828157431808"
+          ]
+        },
+        "author_id": "456055627",
+        "conversation_id": "2085101837821100453",
+        "created_at": "2026-08-05T20:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085101837821100453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1njahHkDpl",
+              "end": 23,
+              "expanded_url": "https://x.com/grjffin/status/2085101837821100453/photo/1",
+              "media_key": "3_2085101828165775360",
+              "start": 0,
+              "url": "https://t.co/1njahHkDpl"
+            },
+            {
+              "display_url": "pic.x.com/1njahHkDpl",
+              "end": 23,
+              "expanded_url": "https://x.com/grjffin/status/2085101837821100453/photo/1",
+              "media_key": "3_2085101828329308160",
+              "start": 0,
+              "url": "https://t.co/1njahHkDpl"
+            },
+            {
+              "display_url": "pic.x.com/1njahHkDpl",
+              "end": 23,
+              "expanded_url": "https://x.com/grjffin/status/2085101837821100453/photo/1",
+              "media_key": "3_2085101828539138049",
+              "start": 0,
+              "url": "https://t.co/1njahHkDpl"
+            },
+            {
+              "display_url": "pic.x.com/1njahHkDpl",
+              "end": 23,
+              "expanded_url": "https://x.com/grjffin/status/2085101837821100453/photo/1",
+              "media_key": "3_2085101828157431808",
+              "start": 0,
+              "url": "https://t.co/1njahHkDpl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085101837821100453",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1893,
+          "impression_count": 794593,
+          "like_count": 15196,
+          "quote_count": 284,
+          "reply_count": 99,
+          "retweet_count": 169
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1njahHkDpl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist \nI neither possess nor sell any substance I mentioned.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/isac0219pek",
+                "end": 23,
+                "expanded_url": "https://ngl.link/isac0219pek",
+                "start": 0,
+                "url": "https://t.co/lkH48c7mxT"
+              }
+            ]
+          }
+        },
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2083889708598444406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 204,
+          "like_count": 7026,
+          "listed_count": 1,
+          "media_count": 372,
+          "tweet_count": 2628
+        },
+        "url": "https://t.co/lkH48c7mxT",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2012-01-05T20:39:05.000Z",
+        "description": "",
+        "id": "456055627",
+        "name": "grıffin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793956321781223424/gNvgfJoZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1834,
+          "following_count": 444,
+          "like_count": 22021,
+          "listed_count": 4,
+          "media_count": 322,
+          "tweet_count": 1764
+        },
+        "url": "",
+        "username": "grjffin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868121512710201344",
+    "conversation_id": "2085314818047922433",
+    "created_at": "2026-08-06T10:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T11:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085314818047922433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kawa090109/sta…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/kawa090109/status/2085178267557134437",
+          "start": 109,
+          "url": "https://t.co/ERrambBhmD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085314818047922433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085178267557134437",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我只能说是中国健全人特有的苦难比较，我不知道贴主本人生活容不容易，倒是能由此推断贴主没读过多少书脑子空空。\n再说了，哪个群体都有好人坏人，很难想象贴主平时的生活多惨才能如此的遇人不淑又爱开地图炮。有爸妈生没爸妈教说是 https://t.co/ERrambBhmD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "2085314818047922433",
+        "created_at": "2026-08-06T10:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085314818047922433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawa090109/sta…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/kawa090109/status/2085178267557134437",
+              "start": 109,
+              "url": "https://t.co/ERrambBhmD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085314818047922433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085178267557134437",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我只能说是中国健全人特有的苦难比较，我不知道贴主本人生活容不容易，倒是能由此推断贴主没读过多少书脑子空空。\n再说了，哪个群体都有好人坏人，很难想象贴主平时的生活多惨才能如此的遇人不淑又爱开地图炮。有爸妈生没爸妈教说是 https://t.co/ERrambBhmD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971814880375406592",
+        "conversation_id": "2084972715900064112",
+        "created_at": "2026-08-06T01:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T02:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085178267557134437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2073089107199426560",
+              "start": 0,
+              "username": "enmualu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085178267557134437",
+        "in_reply_to_user_id": "2073089107199426560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9606,
+          "like_count": 75,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085165273490075740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enmualu 对就你们单亲的不容易 我们非单亲的很轻松好了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist \nI neither possess nor sell any substance I mentioned.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/isac0219pek",
+                "end": 23,
+                "expanded_url": "https://ngl.link/isac0219pek",
+                "start": 0,
+                "url": "https://t.co/lkH48c7mxT"
+              }
+            ]
+          }
+        },
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2083889708598444406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 204,
+          "like_count": 7015,
+          "listed_count": 1,
+          "media_count": 372,
+          "tweet_count": 2625
+        },
+        "url": "https://t.co/lkH48c7mxT",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-27T05:51:26.000Z",
+        "description": "我很懵逼 我只是一枚奔溃的蛋黄",
+        "id": "1971814880375406592",
+        "name": "铁路",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971820886505525249/kLeOKWA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 19,
+          "like_count": 1331,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 579
+        },
+        "url": "",
+        "username": "kawa090109",
+        "verified": false
+      }
+    ]
+  }
+}

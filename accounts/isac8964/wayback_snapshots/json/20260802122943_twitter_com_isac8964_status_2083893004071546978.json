@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2083661364598628352"
+      ],
+      "media_source_tweet_id": [
+        "2083661398480216146"
+      ]
+    },
+    "author_id": "1868121512710201344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2083893004071546978",
+    "created_at": "2026-08-02T12:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T13:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083893004071546978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1704478371739054080",
+          "start": 3,
+          "username": "ihatefraudjo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WRCKteeMLm",
+          "end": 41,
+          "expanded_url": "https://x.com/ihatefraudjo/status/2083661398480216146/video/1",
+          "media_key": "7_2083661364598628352",
+          "start": 18,
+          "url": "https://t.co/WRCKteeMLm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083893004071546978",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1565
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083661398480216146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ihatefraudjo: https://t.co/WRCKteeMLm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17182,
+        "height": 406,
+        "media_key": "7_2083661364598628352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2083661364598628352/pu/img/1a_swTob_uBHHV09.jpg",
+        "public_metrics": {
+          "view_count": 129254
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2083661364598628352/pu/vid/avc1/320x360/iqCxI3T-guJjqCnh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2083661364598628352/pu/vid/avc1/360x406/KOAZrHnfjPuSYuAz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2083661364598628352/pu/pl/sQLAagwFXn8QM7dJ.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2083661364598628352"
+          ]
+        },
+        "author_id": "1704478371739054080",
+        "conversation_id": "2083661398480216146",
+        "created_at": "2026-08-01T21:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083661398480216146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WRCKteeMLm",
+              "end": 23,
+              "expanded_url": "https://x.com/ihatefraudjo/status/2083661398480216146/video/1",
+              "media_key": "7_2083661364598628352",
+              "start": 0,
+              "url": "https://t.co/WRCKteeMLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083661398480216146",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1417,
+          "impression_count": 345412,
+          "like_count": 7595,
+          "quote_count": 339,
+          "reply_count": 0,
+          "retweet_count": 1556
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/WRCKteeMLm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2083661364598628352"
+          ],
+          "media_source_tweet_id": [
+            "2083661398480216146"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083893004071546978",
+        "created_at": "2026-08-02T12:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083893004071546978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1704478371739054080",
+              "start": 3,
+              "username": "ihatefraudjo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WRCKteeMLm",
+              "end": 41,
+              "expanded_url": "https://x.com/ihatefraudjo/status/2083661398480216146/video/1",
+              "media_key": "7_2083661364598628352",
+              "start": 18,
+              "url": "https://t.co/WRCKteeMLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083893004071546978",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1565
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083661398480216146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @ihatefraudjo: https://t.co/WRCKteeMLm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Boston, Massachusetts, United States",
+              "geo": {
+                "coordinates": [
+                  -71.05977,
+                  42.35843
+                ],
+                "type": "Point"
+              },
+              "locality": "Boston",
+              "region": "Massachusetts",
+              "sub_region": "Suffolk County"
+            }
+          ]
+        },
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist n premed student\nI neither possess nor sell any substance I mentioned.",
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2083889708598444406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 194,
+          "like_count": 6675,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 2530
+        },
+        "url": "",
+        "username": "isac8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-20T12:51:33.000Z",
+        "description": "",
+        "id": "1704478371739054080",
+        "location": "Kernersville, NC",
+        "name": "thatguy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704478806797377537/zBMCYT_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 2,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 169
+        },
+        "url": "",
+        "username": "ihatefraudjo",
+        "verified": false
+      }
+    ]
+  }
+}
